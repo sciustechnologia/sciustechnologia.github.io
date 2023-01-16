@@ -1,6 +1,3 @@
----
-layout: default
----
 ```
 Being over 10 years in the software quality assurance industry, 
 gave me a lot of opportunity to develop my technical writing skills. 
