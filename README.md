@@ -22,7 +22,7 @@ delivered direction, instruction, or explanation I always tried to merge followi
 1 Google Assistent (e2e) for Apple and Android
 
 | Feature        | Regression(Alo, Chirp OEM)| Triage | Comparison(deepDives) | Dogfood |
-|:-------------|:------------------|:------|
+|:-------------|:------------------|:------|:------|:------|
 | Actions(Date Questions)           | DONE | DONE  | DONE | DONE  |
 | My Day(DaylyBrief)                | DONE | DONE  | DONE | DONE  |
 | Actions(Device Questions)         | DONE | DONE  | DONE | DONE  |
