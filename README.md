@@ -70,8 +70,8 @@ delivered direction, instruction, or explanation I always tried to merge followi
 
 | Playbook        | link          | 
 |:-------------|:------------------|
-| [Link to QA Playbook page]           | (./qa_playbook.html).| 
-| [Link to Mac_Selenium_Java page]          | (./qa_playbook.html).| 
-| [Link to Mac_Selenium_Python page]        | (./qa_playbook.html).| 
-| [Link to Linux_Selenium_Java page]        | (./qa_playbook.html).| 
-| [Link to Linux_Selenium_Python page       | (./qa_playbook.html).| 
+| [Link to QA Playbook page]           | (./qa_playbook.html).(in progress)| 
+| [Link to Mac_Selenium_Java page]          | (./qa_playbook.html).(in progress)| 
+| [Link to Mac_Selenium_Python page]        | (./qa_playbook.html).(in progress)| 
+| [Link to Linux_Selenium_Java page]        | (./qa_playbook.html).(in progress)| 
+| [Link to Linux_Selenium_Python page       | (./qa_playbook.html).(in progress)| 
