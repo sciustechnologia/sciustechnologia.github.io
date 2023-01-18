@@ -21,17 +21,17 @@ delivered direction, instruction, or explanation I always tried to merge followi
 
 | Feature        | Regression(Alo, Chirp OEM)| Triage | Comparison(deepDives) | Dogfood |
 |:-------------|:------------------|:------|:------|:------|
-| Actions(Date Questions)           | DONE | DONE  | DONE | DONE  |
-| My Day(DaylyBrief)                | DONE | DONE  | DONE | DONE  |
-| Actions(Device Questions)         | DONE | DONE  | DONE | DONE  |
-| Music(providers, Youtube. Spotify, Pandora)           | DONE | DONE  | DONE | DONE  |
-| News(Sports, NPR)                 | DONE | DONE  | DONE | DONE  |
-| Remote Casting( Youtube, Netflix) | DONE | DONE  | DONE | DONE  |
-| Actions( Misc)                    | DONE | DONE  | DONE | DONE  |
-| Radio, Podcast( Questions)        | DONE | DONE  | DONE | DONE  |
-| Productivity Actions( Allarm, Timer, Reminder)           | DONE | DONE  | DONE | DONE  |
-| Answers(Nutrition. Pronounce, Spelling, Web answers)     | DONE | DONE  | DONE | DONE  |
-| Personal Answers(Calendar. Photos, Flights, and others)  | DONE | DONE  | DONE | DONE  |
+| Actions (Date Questions)           | DONE | DONE  | DONE | DONE  |
+| My Day (Dayly Brief)                | DONE | DONE  | DONE | DONE  |
+| Actions (Device Questions)         | DONE | DONE  | DONE | DONE  |
+| Music (providers, Youtube. Spotify, Pandora)           | DONE | DONE  | DONE | DONE  |
+| News (Sports, NPR)                 | DONE | DONE  | DONE | DONE  |
+| Remote Casting (Youtube, Netflix) | DONE | DONE  | DONE | DONE  |
+| Actions (Misc)                    | DONE | DONE  | DONE | DONE  |
+| Radio, Podcast (Questions)        | DONE | DONE  | DONE | DONE  |
+| Productivity Actions (Alarm, Timer, Reminder)           | DONE | DONE  | DONE | DONE  |
+| Answers (Nutrition, Pronounce, Spelling, Web answers)     | DONE | DONE  | DONE | DONE  |
+| Personal Answers (Calendar, Photos, Flights, and others)  | DONE | DONE  | DONE | DONE  |
 
 
 2 Google Assistent with wearables
