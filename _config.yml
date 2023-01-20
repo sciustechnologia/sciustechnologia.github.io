@@ -1,0 +1,33 @@
+title: Scius technologia
+description: Technical writing for Software QA on GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have on
+
+baseurl: 'sciustechnologia.github.io'
+
+# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
+# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
+# otherwise, the layout language will use the default value of 'en'.
+lang: en
+
+
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+timezone: PST
+
+title: Bug Hunter - Technical Writing for Software QA # the main title
+
+tagline: QA done right!   # it will display as the sub-title
+
+description: >-  QA and documentation done right -                      # used by seo meta and the atom feed
+   QA and documentation done right for presenting professional writing.
+
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: 'sciustechnologia.github.io'
+
+github:
+  username: sciustechnologia            # change to your github username
