@@ -59,7 +59,7 @@ delivered direction, instruction, or explanation I always tried to merge followi
 
 6 Pixel 5G power performance testing
 
-| Feature        | 12V| 8V | Triage | 
+| Feature        | 12V device| 8V device| Triage | 
 |:-------------|:------------------|:------|:------|
 | AirplaneRockbottom          | DONE | DONE  | DONE  |
 | Bouncy Ball                 | DONE | DONE  | DONE  |
