@@ -27,7 +27,7 @@ description: >-  QA and documentation done right -                      # used b
    QA and documentation done right for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'sciustechnologia.github.io'
+url: 'https://sciustechnologia.github.io'
 
 github:
   username: sciustechnologia            # change to your github username
