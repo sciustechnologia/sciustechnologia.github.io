@@ -19,20 +19,19 @@ delivered direction, instruction, or explanation I always tried to merge followi
 
 1 Google Assistent (e2e) for Apple and Android
 
-| Feature        | Regression (Alo, Chirp, OEM)| Triage | Comparison (deepDives)| Dogfood |
+| Feature        | Regression (Alo, Chirp, OEM)| Triage | Comparison (deepDives) | Dogfood |
 |:-------------|:------------------|:------|:------|:------|
-| Actions (Date Questions)           | DONE | DONE  | DONE | DONE  |
-| My Day (Dayly Brief)                | DONE | DONE  | DONE | DONE  |
-| Actions (Device Questions)         | DONE | DONE  | DONE | DONE  |
-| Music (providers, Youtube. Spotify, Pandora)           | DONE | DONE  | DONE | DONE  |
-| News (Sports, NPR)                 | DONE | DONE  | DONE | DONE  |
-| Remote Casting (Youtube, Netflix) | DONE | DONE  | DONE | DONE  |
-| Actions (Misc)                    | DONE | DONE  | DONE | DONE  |
-| Radio, Podcast (Questions)        | DONE | DONE  | DONE | DONE  |
-| Productivity Actions (Alarm, Timer, Reminder)           | DONE | DONE  | DONE | DONE  |
-| Answers (Nutrition, Pronounce, Spelling, Web answers)     | DONE | DONE  | DONE | DONE  |
-| Personal Answers (Calendar, Photos, Flights, and others)  | DONE | DONE  | DONE | DONE  |
-
+| Actions(Date Questions)           | DONE | DONE  | DONE | DONE  |
+| My Day(DaylyBrief)                | DONE | DONE  | DONE | DONE  |
+| Actions(Device Questions)         | DONE | DONE  | DONE | DONE  |
+| Music(providers, Youtube. Spotify, Pandora)           | DONE | DONE  | DONE | DONE  |
+| News(Sports, NPR)                 | DONE | DONE  | DONE | DONE  |
+| Remote Casting( Youtube, Netflix) | DONE | DONE  | DONE | DONE  |
+| Actions( Misc)                    | DONE | DONE  | DONE | DONE  |
+| Radio, Podcast( Questions)        | DONE | DONE  | DONE | DONE  |
+| Productivity Actions( Allarm, Timer, Reminder)        | DONE | DONE  | DONE | DONE  |
+| Answers(Nutrition. Pronounce, Spelling, Web answers)  | DONE | DONE  | DONE | DONE  |
+| Personal Answers(Calendar. Photos, Flights, and more) | DONE | DONE  | DONE | DONE  |
 
 2 Google Assistent with wearables
   - Headphones,
@@ -55,6 +54,24 @@ delivered direction, instruction, or explanation I always tried to merge followi
 5 Fitbit
 
 6 Pixel 5G power performance testing
+
+| Feature        | 12V device| 8V device| Triage | 
+|:-------------|:------------------|:------|:------|
+| AirplaneRockbottom          | DONE | DONE  | DONE  |
+| Bouncy Ball                 | DONE | DONE  | DONE  |
+| Chrome Browsing Wifi        | DONE | DONE  | DONE  |
+| Chrome Browsing scroll      | DONE | DONE  | DONE  |
+| GFX                         | DONE | DONE  | DONE  |
+| Keepress OOB                | DONE | DONE  | DONE  |
+| LocalYoutube Music          | DONE | DONE  | DONE  |
+| Partial Wakelock            | DONE | DONE  | DONE  |
+| Photos (4K60FPSH265)        | DONE | DONE  | DONE  |
+| Photos (AVI)                | DONE | DONE  | DONE  |
+| Photos (MFC)                | DONE | DONE  | DONE  |
+| Static Display              | DONE | DONE  | DONE  |
+| Youtube Wifi                | DONE | DONE  | DONE  |
+| Youtube stream              | DONE | DONE  | DONE  |
+
 - Pixel-thermal (99 degC)
 - Power Stats (mWs of Cellular, Modem, CPU, etc)
     - Core >> Wake Lock
@@ -85,8 +102,8 @@ delivered direction, instruction, or explanation I always tried to merge followi
 
 | Playbook        | link          |
 |:-------------|:------------------|
-| [Link to QA Playbook page]           | (./qa_playbook.html).(in progress)|
-| [Link to Mac_Selenium_Java page]          | (./qa_playbook.html).(in progress)|
-| [Link to Mac_Selenium_Python page]        | (./qa_playbook.html).(in progress)|
-| [Link to Linux_Selenium_Java page]        | (./qa_playbook.html).(in progress)|
-| [Link to Linux_Selenium_Python page       | (./qa_playbook.html).(in progress)|
+| [Link to QA Playbook page]           | (./qa_playbook.html).|
+| [Link to Mac_Selenium_Java page]          | (./qa_playbook.html).|
+| [Link to Mac_Selenium_Python page]        | (./qa_playbook.html).|
+| [Link to Linux_Selenium_Java page]        | (./qa_playbook.html).|
+| [Link to Linux_Selenium_Python page       | (./qa_playbook.html).|
