@@ -58,6 +58,24 @@ delivered direction, instruction, or explanation I always tried to merge followi
 5 Fitbit
 
 6 Pixel 5G power performance testing
+
+| Feature        | 12V| 8V | Triage | 
+|:-------------|:------------------|:------|:------|
+| AirplaneRockbottom          | DONE | DONE  | DONE  |
+| Bouncy Ball          | DONE | DONE  | DONE  |
+| Chrome Browsing Wifi          | DONE | DONE  | DONE  |
+| Chrome Browsing scroll           | DONE | DONE  | DONE  |
+| GFX          | DONE | DONE  | DONE  |
+| Keepress OOB          | DONE | DONE  | DONE  |
+| LocalYoutube Music          | DONE | DONE  | DONE  |
+| Partial Wakelock          | DONE | DONE  | DONE  |
+| Photos (4K60FPSH265)          | DONE | DONE  | DONE  |
+| Photos (AVI)          | DONE | DONE  | DONE  |
+| Photos (MFC)            | DONE | DONE  | DONE  |
+| Static Display          | DONE | DONE  | DONE  |
+| Youtube Wifi          | DONE | DONE  | DONE  |
+| Youtube stream          | DONE | DONE  | DONE  |
+
 - Pixel-thermal (99 degC)
 - Power Stats (mWs of Cellular, Modem, CPU, etc)
     - Core >> Wake Lock
