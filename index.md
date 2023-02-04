@@ -1,41 +1,35 @@
 ---
 layout: default
+title: My Work experience
+description: QA testing and technical writing
 ---
-
 Over 10 years in the software quality assurance industry,
 I gained experience in testing and documenting.
 My process of sharing and conveying instructions, and suggestions logically and technically
 was heavily based on the goal creating confidence.
-Confidence in technical writing is delivered by being committed to writing
-  - clear
-  - concise,
-  - correct, and
-  - coherent (complete)
-
-In my Playbooks, Handbooks, Userguides and
-other categories of documentations that
-delivered direction, instruction, or explanation I always tried to merge following perspectives:
-- the logical sequence to get things done
-- the step by step approach that allows any user to accomplish goals
-- readability, readability, readability.
 
 ### Projects I was involved testing:
 
-1 Google Assistent (e2e) for Apple and Android
+1 Google Assistent (e2e) testing
 
-| Feature        | Regression (Alo, Chirp, OEM)| Triage | Comparison (deepDives) | Dogfood |
-|:-------------|:------------------|:------|:------|:------|
-| Actions(Date Questions)           | DONE | DONE  | DONE | DONE  |
-| My Day(DaylyBrief)                | DONE | DONE  | DONE | DONE  |
-| Actions(Device Questions)         | DONE | DONE  | DONE | DONE  |
-| Music(providers, Youtube. Spotify, Pandora)           | DONE | DONE  | DONE | DONE  |
-| News(Sports, NPR)                 | DONE | DONE  | DONE | DONE  |
-| Remote Casting( Youtube, Netflix) | DONE | DONE  | DONE | DONE  |
-| Actions( Misc)                    | DONE | DONE  | DONE | DONE  |
-| Radio, Podcast( Questions)        | DONE | DONE  | DONE | DONE  |
-| Productivity Actions( Allarm, Timer, Reminder)        | DONE | DONE  | DONE | DONE  |
-| Answers(Nutrition. Pronounce, Spelling, Web answers)  | DONE | DONE  | DONE | DONE  |
-| Personal Answers(Calendar. Photos, Flights, and more) | DONE | DONE  | DONE | DONE  |
+| Feature        | Regression <br>(Alo, Chirp, OEM) | Triage | Comparison<br>(deepDives) | Dogfood |
+|:-------------|:---------------------------------|:------|:--------------------------|:------|
+| Actions(Date Questions)           | DONE                             | DONE  | DONE                      | DONE  |
+| My Day(DaylyBrief)                | DONE                             | DONE  | DONE                      | DONE  |
+| Actions(Device Questions)         | DONE                             | DONE  | DONE                      | DONE  |
+| Music(providers, Youtube. Spotify, Pandora)           | DONE                             | DONE  | DONE                      | DONE  |
+| News(Sports, NPR)                 | DONE                             | DONE  | DONE                      | DONE  |
+| Remote Casting( Youtube, Netflix) | DONE                             | DONE  | DONE                      | DONE  |
+| Actions( Misc)                    | DONE                             | DONE  | DONE                      | DONE  |
+| Radio, Podcast( Questions)        | DONE                             | DONE  | DONE                      | DONE  |
+| Productivity Actions( Allarm, Timer, Reminder)        | DONE                             | DONE  | DONE                      | DONE  |
+| Answers(Nutrition. Pronounce, Spelling, Web answers)  | DONE                             | DONE  | DONE                      | DONE  |
+| Personal Answers(Calendar. Photos, Flights, and more) | DONE                             | DONE  | DONE                      | DONE  |
+
+```
+* Contirbuted on the Triage playbook
+* Created the onboarding handbooks for flashing Google Assistent, writing bugreports, and so on
+```
 
 2 Google Assistent with wearables
   - Headphones,
@@ -104,10 +98,31 @@ delivered direction, instruction, or explanation I always tried to merge followi
 - Mobile Radio Activity per app
 - App Wakeup Alarms
 
-| Playbook        | link          |
-|:-------------|:------------------|
-| [Link to QA Playbook page]           | (./qa_playbook.html).|
-| [Link to Mac_Selenium_Java page]          | (./qa_playbook.html).|
-| [Link to Mac_Selenium_Python page]        | (./qa_playbook.html).|
-| [Link to Linux_Selenium_Java page]        | (./qa_playbook.html).|
-| [Link to Linux_Selenium_Python page       | (./qa_playbook.html).|
+***
+
+#### Technical Writing was in each of my projects driven by the need for clarity.
+#### and clarity through technical writing creates confidence.
+
+### The for 4Cs:
+- clear
+- concise,
+- correct, and
+- coherent (complete)
+
+In my Playbooks, Handbooks, Userguides and
+other categories of documentations that
+delivered direction, instruction, or explanation I always tried to merge following perspectives:
+- the logical sequence to get things done
+- the step by step approach that allows any user to accomplish goals
+- readability, readability, readability.
+
+***
+
+| Playbook                             | status                |
+|:-------------------------------------|:----------------------|
+| [Link to QA Playbook page]           | in progress.          |
+| [Link to Mac_Selenium_Java page]     | in progress. |
+| [Link to Mac_Selenium_Python page]   | in progress. |
+| [Link to Linux_Selenium_Java page]   | in progress.|
+| [Link to Linux_Selenium_Python page] | in progress. |
+| [Link to Glossary]                   | in progress. |
