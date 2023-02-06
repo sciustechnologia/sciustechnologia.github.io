@@ -119,5 +119,5 @@ I use in my Playbooks, Handbooks, and Userguides following perspectives as guide
 | [Link to Linux_Selenium_Java page]   | in progress.|
 | [Link to Linux_Selenium_Python page] | in progress. |
 
-* <a href="https://knowledgebase4testers.github.io/" target="_blank" rel="noopener noreferrer">Playbook</a> 
-* <a href="https://trumpfheller.github.io/" target="_blank" rel="noopener noreferrer">Glossary</a> 
+* <a href="https://knowledgebase4testers.github.io/" target="_blank" rel="noopener noreferrer">My QA Playbook</a> 
+* <a href="https://trumpfheller.github.io/" target="_blank" rel="noopener noreferrer">My Glossary</a> 
