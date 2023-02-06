@@ -5,14 +5,13 @@ description: QA testing and technical writing
 ---
 Over 10 years in the software quality assurance industry,
 I gained experience in testing and documenting.
-My process of sharing and conveying instructions, and suggestions logically and technically
-was heavily based on the goal creating confidence.
 
 ### Projects I was involved testing:
 
 ## 1 Google Assistent (e2e) testing
 
-| Feature        | Regression <br>(Alo, Chirp, OEM) | Triage | Comparison<br>(deepDives) | Dogfood |
+
+| Feature        | Regression<br>(Alo, Chirp, OEM) | Triage | Comparison<br>(deepDives) | Dogfood |
 |:-------------|:---------------------------------|:------|:--------------------------|:------|
 | Actions(Date Questions)           | DONE                             | DONE  | DONE                      | DONE  |
 | My Day(DaylyBrief)                | DONE                             | DONE  | DONE                      | DONE  |
@@ -27,8 +26,8 @@ was heavily based on the goal creating confidence.
 | Personal Answers(Calendar. Photos, Flights, and more) | DONE                             | DONE  | DONE                      | DONE  |
 
 ```
-* Contirbuted on the Triage playbook
-* Created the onboarding handbooks for flashing Google Assistent, writing bugreports, and so on
+* Contributed massively to the Google Assistent triage playbook.
+* Created the onboarding handbooks for onboarding, flashing Google Assistent, writing bugreports, and so on.
 ```
 
 ## 2 Google Assistent with wearables
@@ -50,6 +49,7 @@ was heavily based on the goal creating confidence.
   - and more
 
 ## 5 Fitbit
+- [update in progress]
 
 ## 6 Pixel 5G power performance testing
 
@@ -100,29 +100,19 @@ was heavily based on the goal creating confidence.
 
 ***
 
-#### Technical Writing was in each of my projects driven by the need for clarity.
-#### and clarity through technical writing creates confidence.
-
-### The for 4Cs:
-- clear
-- concise,
-- correct, and
-- coherent (complete)
-
-In my Playbooks, Handbooks, Userguides and
-other categories of documentations that
-delivered direction, instruction, or explanation I always tried to merge following perspectives:
-- the logical sequence to get things done
-- the step by step approach that allows any user to accomplish goals
-- readability, readability, readability.
+I use in my Playbooks, Handbooks, and Userguides following perspectives as guideline:
+1 the logical sequence to get things done.
+2 the step by step approach that allows any user to accomplish goals.
+3 readability, readability, readability!
 
 ***
 
-| Playbook                             | status                |
+| Haandbook                             | status                |
 |:-------------------------------------|:----------------------|
-| [Link to QA Playbook page]           | in progress.          |
 | [Link to Mac_Selenium_Java page]     | in progress. |
 | [Link to Mac_Selenium_Python page]   | in progress. |
 | [Link to Linux_Selenium_Java page]   | in progress.|
 | [Link to Linux_Selenium_Python page] | in progress. |
-| [Link to Glossary]                   | in progress. |
+
+* <a href="https://knowledgebase4testers.github.io/" target="_blank" rel="noopener noreferrer">Playbook</a> 
+* <a href="https://trumpfheller.github.io/" target="_blank" rel="noopener noreferrer">Glossary</a> 
