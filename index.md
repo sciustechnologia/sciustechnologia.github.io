@@ -103,6 +103,7 @@ I gained experience in testing and documenting.
 - App Wakeup Alarms
 
 
+### My Guideline
 I use in my Playbooks, Handbooks, and Userguides following perspectives as guideline:
 - the logical sequence to get things done.
 - the step by step approach that allows any user to accomplish goals.
@@ -111,7 +112,7 @@ I use in my Playbooks, Handbooks, and Userguides following perspectives as guide
 
 ***
 
-| Haandbook                             | status                |
+| Handbook                             | status                |
 |:-------------------------------------|:----------------------|
 | [Link to Mac_Selenium_Java page]     | in progress. |
 | [Link to Mac_Selenium_Python page]   | in progress. |
