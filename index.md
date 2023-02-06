@@ -11,7 +11,7 @@ I gained experience in testing and documenting.
 ## 1 Google Assistent (e2e) testing
 
 
-| Feature        | Regression<br>(Alo, Chirp, OEM) | Triage | Comparison<br>(deepDives) | Dogfood |
+| Feature        | Regression | Triage | Comparison<br>(deepDives) | Dogfood |
 |:-------------|:---------------------------------|:------|:--------------------------|:------|
 | Actions(Date Questions)           | DONE                             | DONE  | DONE                      | DONE  |
 | My Day(DaylyBrief)                | DONE                             | DONE  | DONE                      | DONE  |
