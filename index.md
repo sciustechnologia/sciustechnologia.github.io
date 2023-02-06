@@ -101,9 +101,10 @@ I gained experience in testing and documenting.
 ***
 
 I use in my Playbooks, Handbooks, and Userguides following perspectives as guideline:
-1 the logical sequence to get things done.
-2 the step by step approach that allows any user to accomplish goals.
-3 readability, readability, readability!
+
+> the logical sequence to get things done.
+> the step by step approach that allows any user to accomplish goals.
+> readability, readability, readability!
 
 ***
 
