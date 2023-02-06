@@ -10,7 +10,7 @@ was heavily based on the goal creating confidence.
 
 ### Projects I was involved testing:
 
-1 Google Assistent (e2e) testing
+## 1 Google Assistent (e2e) testing
 
 | Feature        | Regression <br>(Alo, Chirp, OEM) | Triage | Comparison<br>(deepDives) | Dogfood |
 |:-------------|:---------------------------------|:------|:--------------------------|:------|
@@ -31,27 +31,27 @@ was heavily based on the goal creating confidence.
 * Created the onboarding handbooks for flashing Google Assistent, writing bugreports, and so on
 ```
 
-2 Google Assistent with wearables
+## 2 Google Assistent with wearables
   - Headphones,
   - watches,
   - loudspeakers, and more
 
-3 Alexa  (verification testing)
+## 3 Alexa  (verification testing)
   -  screens,
   - monitors,
   - loudspeakers,
   - headphones,
   - watches, and more
 
-4 Google Embedded infotainment system
+## 4 Google Embedded infotainment system
   - GM,
   - Ford,
   - Volvo,
   - and more
 
-5 Fitbit
+## 5 Fitbit
 
-6 Pixel 5G power performance testing
+## 6 Pixel 5G power performance testing
 
 | Feature        | 12V device| 8V device| Triage | 
 |:-------------|:------------------|:------|:------|
