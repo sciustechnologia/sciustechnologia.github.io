@@ -34,17 +34,17 @@ I gained experience in testing and documenting.
   * and so on.
 ```
 
-## 2 Google Assistent with wearables
+## 2 Google Assistent with wearables (verification testing)
   - Headphones,
-  - watches,
-  - loudspeakers, and more
+  - Watches,
+  - Loudspeakers, and more
 
 ## 3 Alexa  (verification testing)
-  -  screens,
-  - monitors,
-  - loudspeakers,
-  - headphones,
-  - watches, and more
+  - Screens,
+  - Monitors,
+  - Loudspeakers,
+  - Headphones,
+  - Watches, and more
 
 ## 4 Google Embedded infotainment system
   - GM,
