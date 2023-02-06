@@ -27,7 +27,11 @@ I gained experience in testing and documenting.
 
 ```
 * Contributed massively to the Google Assistent triage playbook.
-* Created the onboarding handbooks for onboarding, flashing Google Assistent, writing bugreports, and so on.
+* Created the handbooks for 
+  * onboarding, 
+  * flashing Google Assistent, 
+  * writing bugreports, 
+  * and so on.
 ```
 
 ## 2 Google Assistent with wearables
