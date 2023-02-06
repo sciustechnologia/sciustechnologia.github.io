@@ -98,13 +98,12 @@ I gained experience in testing and documenting.
 - Mobile Radio Activity per app
 - App Wakeup Alarms
 
-***
 
 I use in my Playbooks, Handbooks, and Userguides following perspectives as guideline:
-
 > the logical sequence to get things done.
 > the step by step approach that allows any user to accomplish goals.
 > readability, readability, readability!
+
 
 ***
 
