@@ -6,9 +6,9 @@ description: QA testing and technical writing
 Over 10 years in the software quality assurance industry,
 I gained experience in testing and documenting.
 
-### Projects I was involved testing:
+### Projects I was involved in testing:
 
-## 1 Google Assistent (e2e) testing
+## 1 Google Assistant (e2e) testing
 
 
 | Feature        | Regression | Triage | Comparison<br>(deepDives) | Dogfood |
@@ -21,20 +21,20 @@ I gained experience in testing and documenting.
 | Remote Casting( Youtube, Netflix) | DONE                             | DONE  | DONE                      | DONE  |
 | Actions( Misc)                    | DONE                             | DONE  | DONE                      | DONE  |
 | Radio, Podcast( Questions)        | DONE                             | DONE  | DONE                      | DONE  |
-| Productivity Actions( Allarm, Timer, Reminder)        | DONE                             | DONE  | DONE                      | DONE  |
+| Productivity Actions( Alarm, Timer, Reminder)        | DONE                             | DONE  | DONE                      | DONE  |
 | Answers(Nutrition. Pronounce, Spelling, Web answers)  | DONE                             | DONE  | DONE                      | DONE  |
 | Personal Answers(Calendar. Photos, Flights, and more) | DONE                             | DONE  | DONE                      | DONE  |
 
 ```
-* Contributed massively to the Google Assistent triage playbook.
+* Contributed massively to the Google Assistant triage playbook.
 * Created the handbooks for 
   * onboarding, 
-  * flashing Google Assistent, 
-  * writing bugreports, 
+  * flashing Google Assistant, 
+  * writing bug reports, 
   * and so on.
 ```
 
-## 2 Google Assistent with wearables (verification testing)
+## 2 Google Assistant with wearables (verification testing)
   - Headphones,
   - Watches,
   - Loudspeakers, and more
@@ -104,9 +104,9 @@ I gained experience in testing and documenting.
 
 
 ### My Guideline
-I use in my Playbooks, Handbooks, and Userguides following perspectives as guideline:
+I use in my Playbooks, Handbooks, and Userguides following perspectives as guidelines:
 - the logical sequence to get things done.
-- the step by step approach that allows any user to accomplish goals.
+- the step-by-step approach that allows any user to accomplish goals.
 - readability, readability, readability!
 
 ***
