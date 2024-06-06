@@ -3,12 +3,12 @@ layout: default
 title: My Work experience
 description: QA testing and technical writing
 ---
-Over 10 years in the software quality assurance industry,
+Over 14 years in the software quality assurance industry,
 I gained experience in testing and documenting.
 
-### Projects I was involved in testing:
+## Projects I was involved in testing:
 
-## 1 Google Assistant (e2e) testing
+### 1 Google Assistant (e2e) testing
 
 
 | Feature        | Regression | Triage | Comparison<br>(deepDives) | Dogfood |
@@ -34,28 +34,28 @@ I gained experience in testing and documenting.
   * and so on.
 ```
 
-## 2 Google Assistant with wearables (verification testing)
+### 2 Google Assistant with wearables (verification testing)
   - Headphones,
   - Watches,
   - Loudspeakers, and more
 
-## 3 Alexa  (verification testing)
+### 3 Alexa  (verification testing)
   - Screens,
   - Monitors,
   - Loudspeakers,
   - Headphones,
   - Watches, and more
 
-## 4 Google Embedded infotainment system
+### 4 Google Embedded infotainment system
   - GM,
   - Ford,
   - Volvo,
   - and more
 
-## 5 Fitbit
+### 5 Fitbit
 - [update in progress]
 
-## 6 Pixel 5G power performance testing
+### 6 Pixel 5G power performance testing
 
 | Feature        | 12V device| 8V device| Triage | 
 |:-------------|:------------------|:------|:------|
@@ -103,7 +103,7 @@ I gained experience in testing and documenting.
 - App Wakeup Alarms
 
 
-### My Guideline
+**My Guideline**
 I use in my Playbooks, Handbooks, and Userguides following perspectives as guidelines:
 - the logical sequence to get things done.
 - the step-by-step approach that allows any user to accomplish goals.
