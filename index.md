@@ -254,10 +254,9 @@ for row in rows:
 
 | Handbook                             | status                |
 |:-------------------------------------|:----------------------|
-| [Link to Mac_Selenium_Java page]     | in progress. |
-| [Link to Mac_Selenium_Python page]   | in progress. |
-| [Link to Linux_Selenium_Java page]   | in progress.|
-| [Link to Linux_Selenium_Python page] | in progress. |
+| [Link to Selenium_Java page]     | Done |
+| [Link to Selenium_Python page]   | Done |
+
 
 * <a href="https://knowledgebase4testers.github.io/" target="_blank" rel="noopener noreferrer">My Glossary</a> 
 * <a href="https://trumpfheller.github.io/" target="_blank" rel="noopener noreferrer">My QA Playbook</a> 
