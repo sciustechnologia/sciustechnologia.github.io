@@ -111,7 +111,8 @@ I use in my Playbooks, Handbooks, and Userguides following perspectives as guide
 
 ***
 
-programming and database management : Use Python and SQL together to manage databases, perform data analysis, and build data-driven applications.
+## Last project related to programming and database management: 
+- Use Python and SQL together to manage databases, perform data analysis, and build data-driven applications.
 
 Breakdown of the essential skills: 
 
