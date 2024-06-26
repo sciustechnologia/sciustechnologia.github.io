@@ -85,7 +85,7 @@ I gained experience in testing and documenting.
     - Battery
         - Plugged
         - Charging
-    - Connectivity
+    - Connectivity [3GPP protocol 5G/4G]
         - Phone signal
         - Mobile Radio
         - Data connection
