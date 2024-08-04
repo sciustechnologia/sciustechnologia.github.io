@@ -101,13 +101,17 @@ I gained experience in testing and documenting.
 - CPU Usage by App
 - Mobile Radio Activity per app
 - App Wakeup Alarms
+- 
+---
 
-
-**My Guideline**
-I use in my Playbooks, Handbooks, and Userguides following perspectives as guidelines:
-- the logical sequence to get things done.
-- the step-by-step approach that allows any user to accomplish goals.
-- readability, readability, readability!
+## Testings
+- [Bluetooth testing](./testingBluetooth/bt.html)
+- [Bluetooth testing profiles](./testingBluetooth/bt_profiles.html)
+- [Bluetooth testing tools](./testingBluetooth/btt.html)
+- [Bluetooth testing tools Sniffer](./testingBluetooth/btt_sniffers.html)
+- [Bluetooth testing tools Picolo](./testingBluetooth/btt_picolo.html)
+- [Bluetooth bugs](./testingBluetooth/bt_protocolerrors.html)
+- [Bluetooth logs](./testingBluetooth/bt_logs.html)
 
 ***
 
@@ -249,6 +253,13 @@ for row in rows:
 - [x] mastering these skills
 - [ ] mastering these skills not yet
 
+***
+
+**My Guideline**
+I use in my Playbooks, Handbooks, and Userguides following perspectives as guidelines:
+- the logical sequence to get things done.
+- the step-by-step approach that allows any user to accomplish goals.
+- readability, readability, readability!
 
 ***
 
