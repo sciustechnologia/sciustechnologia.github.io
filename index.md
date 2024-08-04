@@ -101,10 +101,11 @@ I gained experience in testing and documenting.
 - CPU Usage by App
 - Mobile Radio Activity per app
 - App Wakeup Alarms
-- 
+  
 ---
 
 ## Testings
+
 - [Bluetooth testing](./testingBluetooth/bt.html)
 - [Bluetooth testing profiles](./testingBluetooth/bt_profiles.html)
 - [Bluetooth testing tools](./testingBluetooth/btt.html)
