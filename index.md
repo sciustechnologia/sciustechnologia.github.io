@@ -13,8 +13,8 @@ I gained experience in testing and documenting.
 
 | Feature        | Regression | Triage | Comparison<br>(deepDives) | Dogfood |
 |:-------------|:---------------------------------|:------|:--------------------------|:------|
-| Actions (Date Questions)           | DONE                             | DONE  | DONE                      | DONE  |
-| My Day (DaylyBrief)                | DONE                             | DONE  | DONE                      | DONE  |
+| `Actions` (Date Questions)           | DONE                             | DONE  | DONE                      | DONE  |
+| `My Day` (DaylyBrief)                | DONE                             | DONE  | DONE                      | DONE  |
 | Actions (Device Questions)         | DONE                             | DONE  | DONE                      | DONE  |
 | Music (Youtube, Spotify, Pandora)           | DONE                             | DONE  | DONE                      | DONE  |
 | News (Sports, NPR)                 | DONE                             | DONE  | DONE                      | DONE  |
