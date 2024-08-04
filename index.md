@@ -15,15 +15,15 @@ I gained experience in testing and documenting.
 |:-------------|:---------------------------------|:------|:--------------------------|:------|
 | `Actions` (Date Questions)           | DONE                             | DONE  | DONE                      | DONE  |
 | `My Day` (DaylyBrief)                | DONE                             | DONE  | DONE                      | DONE  |
-| Actions (Device Questions)         | DONE                             | DONE  | DONE                      | DONE  |
-| Music (Youtube, Spotify, Pandora)           | DONE                             | DONE  | DONE                      | DONE  |
-| News (Sports, NPR)                 | DONE                             | DONE  | DONE                      | DONE  |
-| Remote Casting (Youtube, Netflix) | DONE                             | DONE  | DONE                      | DONE  |
-| Actions (Misc)                    | DONE                             | DONE  | DONE                      | DONE  |
-| Radio, Podcast (Questions)        | DONE                             | DONE  | DONE                      | DONE  |
-| Productivity Actions (Alarm, Timer, Reminder)        | DONE                             | DONE  | DONE                      | DONE  |
-| Answers (Nutrition. Pronounce, Spelling, Web answers)  | DONE                             | DONE  | DONE                      | DONE  |
-| Personal Answers (Calendar. Photos, Flights, and more) | DONE                             | DONE  | DONE                      | DONE  |
+| `Actions` (Device Questions)         | DONE                             | DONE  | DONE                      | DONE  |
+| `Music` (Youtube, Spotify, Pandora)           | DONE                             | DONE  | DONE                      | DONE  |
+| `News` (Sports, NPR)                 | DONE                             | DONE  | DONE                      | DONE  |
+| `Remote Casting` (Youtube, Netflix) | DONE                             | DONE  | DONE                      | DONE  |
+| `Actions` (Misc)                    | DONE                             | DONE  | DONE                      | DONE  |
+| `Radio, Podcast` (Questions)        | DONE                             | DONE  | DONE                      | DONE  |
+| `Productivity Actions` (Alarm, Timer, Reminder)        | DONE                             | DONE  | DONE                      | DONE  |
+| `Answers` (Nutrition. Pronounce, Spelling, Web answers)  | DONE                             | DONE  | DONE                      | DONE  |
+| `Personal Answers` (Calendar. Photos, Flights, and more) | DONE                             | DONE  | DONE                      | DONE  |
 
 ```
 * Contributed massively to the Google Assistant triage playbook.
