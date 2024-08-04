@@ -1,3 +1,9 @@
+---
+layout: default
+title: My Work experience
+description: QA Bluetooth testing 
+---
+
 ## Bluetooth profiles and * Purposes
 
 ### 1. Classic Bluetooth (BR/EDR)
