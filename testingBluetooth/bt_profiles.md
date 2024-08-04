@@ -4,7 +4,9 @@ title: My Work experience
 description: QA Bluetooth testing 
 ---
 
-## Bluetooth profiles and * Purposes
+## Bluetooth profiles 
+
+> and purposes
 
 ### 1. Classic Bluetooth (BR/EDR)
 * Explanation: The original Bluetooth technology - Basic Rate (BR) or Enhanced Data Rate (EDR).
