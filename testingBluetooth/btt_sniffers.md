@@ -1,4 +1,10 @@
-### Using sniffers in Bluetooth testing 
+---
+layout: default
+title: My Work experience
+description: QA Bluetooth testing 
+---
+
+## Using sniffers in Bluetooth testing 
 
 * involves monitoring and analyzing Bluetooth communication to troubleshoot issues,
 * capturing Bluetooth signals 
