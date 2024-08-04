@@ -1,5 +1,10 @@
+---
+layout: default
+title: My Work experience
+description: QA Bluetooth testing 
+---
 
-### Piccolo 
+## Piccolo 
 
 * is a Bluetooth protocol analyzer and sniffer designed for monitoring and analyzing Bluetooth communications. It is particularly used in Bluetooth development, testing, and debugging. 
 
