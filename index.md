@@ -111,7 +111,7 @@ I gained experience in testing and documenting.
 - [Bluetooth testing tools](./testingBluetooth/btt.html)
 - [Bluetooth testing tools Sniffer](./testingBluetooth/btt_sniffers.html)
 - [Bluetooth testing tools Picolo](./testingBluetooth/btt_picolo.html)
-- [Bluetooth bugs](./testingBluetooth/bt_protocolerrors.html)
+- [Bluetooth bugs](./testingBluetooth/bluetoothprotocolerrors.html)
 - [Bluetooth logs](./testingBluetooth/bt_logs.html)
 
 ***
