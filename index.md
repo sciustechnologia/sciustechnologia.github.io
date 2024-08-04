@@ -116,6 +116,11 @@ I gained experience in testing and documenting.
 
 ***
 
+In the works:
+Testing AI
+
+***
+
 ## Last project related to programming and database management: 
 - Use Python and SQL together to manage databases, perform data analysis, and build data-driven applications.
 
