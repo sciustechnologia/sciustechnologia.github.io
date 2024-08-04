@@ -1,3 +1,9 @@
+---
+layout: default
+title: My Work experience
+description: QA Bluetooth testing 
+---
+
 ## Bluetooth protocol bugs
 
 Bluetooth protocol errors in a car’s infotainment system can manifest in various ways, depending on the nature of the issue. Common symptoms include 
