@@ -1,4 +1,10 @@
-Bluetooth protocols (Classic Bluetooth, BLE) and their respective communication patterns.
+---
+layout: default
+title: My Work experience
+description: QA Bluetooth testing 
+---
+
+## Bluetooth protocols (Classic Bluetooth, BLE) and their respective communication patterns.
 
 ### Classic Bluetooth (BR/EDR)
 Classic Bluetooth is designed for continuous, high-throughput communication and is often used in applications where **power consumption** is **less of a concern but data transfer rates** are important.
