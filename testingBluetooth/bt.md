@@ -42,7 +42,7 @@ description: QA Bluetooth testing
 * Bluetooth5,
 * Bluetooth Mesh
 
-Please check the page.
+Please check the BT profiles [page](https://sciustechnologia.github.io/testingBluetooth/bt_profiles.html).
 
 ---
 
