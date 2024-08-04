@@ -1,5 +1,7 @@
 ---
-layout: Default
+layout: default
+title: My Work experience
+description: QA Bluetooth testing 
 ---
 
 ## Tools for Bluetooth protocol analysis 
