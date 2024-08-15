@@ -111,8 +111,6 @@ I gained experience in testing and documenting.
 ---
 
 ## Testings
-
-## Testings
 - [Bluetooth testing](./testing/bt.html)
 - [Bluetooth testing profiles](./testing/bt_profiles.html)
 - [BT test senario: Classic Bluetooth - continuous data streaming](./testing/bt_scenario_ClassicBluetooth.html)
@@ -133,7 +131,7 @@ Testing AI
 
 ***
 
-## Rundown on [Python](./python/00.html)
+## [Python](./python/00.html) rundown
 
 ## [0 Sequences](./python/02_string_listTuple/06_sequences.html)
 
