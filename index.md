@@ -264,8 +264,9 @@ Testing AI
 
 ## Data Analysis
 
+- [my progress](./data/data.html)
 - [EV](./data/ev.html)
-- [Happy WOrld - Data cleaning](./data/happy.html)
+- [Happy World - Data cleaning](./data/happy.html)
 - [My car's gas consumption - Cleaning data](./data/bb.html)
 - [Notes from  sqltutorial.org](./data/10_00.html)
 - [Notes about numpy](./data/10_01.html)
