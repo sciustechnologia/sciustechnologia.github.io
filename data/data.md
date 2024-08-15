@@ -137,10 +137,3 @@ for row in rows:
 - [x] mastering these skills
 - [ ] mastering these skills not yet
 
-***
-
-**My Guideline**
-I use in my Playbooks, Handbooks, and Userguides following perspectives as guidelines:
-- the logical sequence to get things done.
-- the step-by-step approach that allows any user to accomplish goals.
-- readability, readability, readability!
