@@ -255,6 +255,11 @@ Testing AI
 
 - [Google Cert Rundown](./pythonic/extra/googleRundown.html)
 
+***
+
+## ADB cmds [still got to collect them from my notes]
+
+- [Flashing](./pythonic/adb/flashing.html)
 
 ***
 
