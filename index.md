@@ -135,7 +135,7 @@ Testing AI
 
 ## Rundown on Python
 
-# [Python](./pythonic/00.html)
+# [Python](./python/00.html)
 
 ## [0 Sequences](./pythonic/02_string_listTuple/06_sequences.html)
 
