@@ -260,7 +260,7 @@ Testing AI
 
 ***
 
-## Data Alaysis
+## Data Analysis
 
 - [EV](./data/ev.html)
 - [Happy WOrld - Data cleaning](./data/happy.html)
