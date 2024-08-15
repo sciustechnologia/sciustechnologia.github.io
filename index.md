@@ -3,7 +3,7 @@ layout: default
 title: My Work experience
 description: QA testing and technical writing
 ---
-> my experience in testing and documenting.
+> my experience in testing and technical writing.
 
 ## Some of the devices and software I tested as a QA Engineer:
 
