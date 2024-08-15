@@ -135,39 +135,39 @@ Testing AI
 
 ## Rundown on [Python](./python/00.html)
 
-## [0 Sequences](./pythonic/02_string_listTuple/06_sequences.html)
+## [0 Sequences](./python/02_string_listTuple/06_sequences.html)
 
 ## [1 Sequence String:](./pythonic/02_string_listTuple/02_01_strings.html)
 
-- [01_strings_slicing](./pythonic/02_string_listTuple/02_02_strings_slicing.html)
-- [02_string Function & Operators](./pythonic/02_string_listTuple/03_stringOperators_functions.html)
-- [03_string_methods](./pythonic/02_string_listTuple/04_string_methods.html)
-- [04_string_formatting](./pythonic/02_string_listTuple/05_string_formatting.html)
-- [biggerPicture](./pythonic/02_string_listTuple/10_biggerPicture.html)
+- [01_strings_slicing](./python/02_string_listTuple/02_02_strings_slicing.html)
+- [02_string Function & Operators](./python/02_string_listTuple/03_stringOperators_functions.html)
+- [03_string_methods](./python/02_string_listTuple/04_string_methods.html)
+- [04_string_formatting](./python/02_string_listTuple/05_string_formatting.html)
+- [biggerPicture](./python/02_string_listTuple/10_biggerPicture.html)
 
-## [2 Sequence List:](./pythonic/02_string_listTuple/07_lists.html)
+## [2 Sequence List:](./python/02_string_listTuple/07_lists.html)
 
-- [05_lists_methods](./pythonic/02_string_listTuple/08_lists_methods.html)
-- [06_tuples](./pythonic/02_string_listTuple/09_tuples.html)
+- [05_lists_methods](./python/02_string_listTuple/08_lists_methods.html)
+- [06_tuples](./python/02_string_listTuple/09_tuples.html)
 
-## [3 Iteration:](./pythonic/03_iteration/03.html)
+## [3 Iteration:](./python/03_iteration/03.html)
 
-- [01_whileLoops](./pythonic/03_iteration/01_while_loops.html)
-- [02_forLoops](./pythonic/03_iteration/02_forLoops.html)
-- [03_range](./pythonic/03_iteration/03_range.html)
-- [04_loop Control Structures](./pythonic/03_iteration/04_loopControlStructures.html)
-- [05_Programming Patterns](./pythonic/03_iteration/05_programmingPatterns.html)
-- [06_Comprehension](./pythonic/03_iteration/06_comprehension.html)
-- [07_Iterator](./pythonic/06_functions/0307_iterator.html)
+- [01_whileLoops](./python/03_iteration/01_while_loops.html)
+- [02_forLoops](./python/03_iteration/02_forLoops.html)
+- [03_range](./python/03_iteration/03_range.html)
+- [04_loop Control Structures](./python/03_iteration/04_loopControlStructures.html)
+- [05_Programming Patterns](./python/03_iteration/05_programmingPatterns.html)
+- [06_Comprehension](./python/03_iteration/06_comprehension.html)
+- [07_Iterator](./python/06_functions/0307_iterator.html)
 
-## [4 set & dict:](./pythonic/04_set_dict/04.html)
+## [4 set & dict:](./python/04_set_dict/04.html)
 
-- [01_set](./pythonic/04_set_dict/01_set.html)
-- [02_dict](./pythonic/04_set_dict/02_dict.html)
-- [03_method](./pythonic/04_set_dict/03_method.html)
-- [04_dict_iteration](./pythonic/04_set_dict/04_dict_iteration.html)
-- [05_default Dictionaries](./pythonic/04_set_dict/05_defaultDictionaries.html)
-- [06_nested Containers](./pythonic/04_set_dict/06_nestedContainers.html)
+- [01_set](./python/04_set_dict/01_set.html)
+- [02_dict](./python/04_set_dict/02_dict.html)
+- [03_method](./python/04_set_dict/03_method.html)
+- [04_dict_iteration](./python/04_set_dict/04_dict_iteration.html)
+- [05_default Dictionaries](./python/04_set_dict/05_defaultDictionaries.html)
+- [06_nested Containers](./python/04_set_dict/06_nestedContainers.html)
 
 ---
 
