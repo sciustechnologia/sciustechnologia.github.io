@@ -6,7 +6,7 @@ description: QA testing and technical writing
 Over 14 years in the software quality assurance industry,
 I gained experience in testing and documenting.
 
-## Projects I was involved in testing:
+## Some of the devices and software I tested as a QA Engineer:
 
 ### 1 Google Assistant (e2e) testing
 
