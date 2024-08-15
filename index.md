@@ -266,7 +266,9 @@ Testing AI
 - [Happy WOrld - Data cleaning](./data/happy.html)
 - [My car's gas consumption - Cleaning data](./data/bb.html)
 - [Notes from  sqltutorial.org](./data/10_00.html)
-- [Notes from  sqltutorial.org](./data/10_01.html)
+- [Notes about numpy](./data/10_01.html)
+- [Notes about pandas](./data/10_03.html)
+- [Notes about Matplotlib](./data/10_02.html)
   
 ***
 
