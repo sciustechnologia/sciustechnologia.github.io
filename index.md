@@ -265,7 +265,8 @@ Testing AI
 - [EV](./data/ev.html)
 - [Happy WOrld - Data cleaning](./data/happy.html)
 - [My car's gas consumption - Cleaning data](./data/bb.html)
-- [00 - Cleaning data](./data/10_00.html)
+- [Notes from  sqltutorial.org](./data/10_00.html)
+- [Notes from  sqltutorial.org](./data/10_01.html)
   
 ***
 
