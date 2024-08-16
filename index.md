@@ -258,7 +258,7 @@ Testing AI
 
 ## ADB cmds [still got to collect them from my notes]
 
-- [basics](./pythonic/adb/flashing.html)
+- [basics](./testing/flashing.html)
 
 ***
 
