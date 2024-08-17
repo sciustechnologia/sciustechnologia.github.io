@@ -40,9 +40,28 @@ once you have installed the RC or any other apk, you might want to conduct a few
 So you connect with the device via wifi. 
 
 ```
+# Connect your Android device and adb host computer to a common Wi-Fi network.
 adb devices
-adb connect <IP address>: Connect to a device over a network (if your device is connected to a Wi-Fi network).
+adb tcpip 5555
+
+# to obtain the phone's IP address
+adb shell ip addr show wlan0
+# or
+adb shell "ip addr show wlan0 | grep -e wlan0$ | cut -d\" \" -f 6 | cut -d/ -f 1" 
+# copy IP address after the "inet" until the "/".
+
+adb <ip-address-of-device>:5555
+adb connect <ip-address-of-device>:5555
+
+adb devices
+# List of devices attached
+device_ip_address:5555 device
+
+# now view logcat output by running
+adb logcat
 ```
+
+=> note to self: double check this
 
 ### Software Installation
 > Install apps from your computer (outside the Play Store).
