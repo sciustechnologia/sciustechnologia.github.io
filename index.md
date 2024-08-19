@@ -235,7 +235,7 @@ Testing AI
 ## [10: Testing](./python/11_testing/11.html)
 
 - [01_black&white](./python/11_testing/1101.html)
-- [02_pytest](./python/11_testing/1102.html)
+- [02_pytest](./python/11_testing/1102_pytest.html)
 - [03_unitest](./python/11_testing/1103.html)
 - [04_testing SoftWare](./python/11_testing/1104_unless.html)
 - [05_testing HardWare](./python/11_testing/1105_testingHW.html)
