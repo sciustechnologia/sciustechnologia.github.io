@@ -232,13 +232,12 @@ Testing AI
 - [Math](./python/10_algos/1007.html)
 - [Numerical](./python/10_algos/1008.html)
 
-## [10: Testing](./python/11_testing/11.html)
+## 10: Testing
 
+- [01_test plan](./python/11_testing/11.html)
 - [01_black&white](./python/11_testing/1101.html)
 - [02_pytest](./python/11_testing/1102_pytest.html)
 - [03_unitest](./python/11_testing/1103.html)
-- [04_testing SoftWare](./python/11_testing/1104_testingSW.html)
-- [05_testing HardWare](./python/11_testing/1105_testingHW.html)
 
 ---
 
