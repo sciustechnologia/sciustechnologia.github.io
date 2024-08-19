@@ -135,7 +135,7 @@ Testing AI
 
 ## [0 Sequences](./python/02_string_listTuple/06_sequences.html)
 
-## [1 Sequence String:](./pythonic/02_string_listTuple/02_01_strings.html)
+## [1 Sequence String:](./python/02_string_listTuple/02_01_strings.html)
 
 - [01_strings_slicing](./python/02_string_listTuple/02_02_strings_slicing.html)
 - [02_string Function & Operators](./python/02_string_listTuple/03_stringOperators_functions.html)
@@ -234,26 +234,26 @@ Testing AI
 
 ## [10: Testing](./python/11_testing/11.html)
 
-- [01_black&white](./pythonic/11_testing/1101.html)
-- [02_pytest](./pythonic/11_testing/1102.html)
-- [03_unitest](./pythonic/11_testing/1103.html)
-- [04_testing SoftWare](./pythonic/11_testing/1104_unless.html)
-- [05_testing HardWare](./pythonic/11_testing/1105_testingHW.html)
+- [01_black&white](./python/11_testing/1101.html)
+- [02_pytest](./python/11_testing/1102.html)
+- [03_unitest](./python/11_testing/1103.html)
+- [04_testing SoftWare](./python/11_testing/1104_unless.html)
+- [05_testing HardWare](./python/11_testing/1105_testingHW.html)
 
 ---
 
-## [11: Modules, Packages and APIs](./pythonic/08_modulesPackageAPIs/08.html)
+## [11: Modules, Packages and APIs](./python/08_modulesPackageAPIs/08.html)
 
-- [01_Modules](./pythonic/08_modulesPackageAPIs/08_01.html)
-- [02_Import](./pythonic/08_modulesPackageAPIs/08_02.html)
-- [03_Packages](./pythonic/08_modulesPackageAPIs/08_03.html)
-- [04_Python Package Index](./pythonic/08_modulesPackageAPIs/08_04.html)
-- [05_Requests](./pythonic/08_modulesPackageAPIs/08_05.html)
-- [06_APIs](./pythonic/08_modulesPackageAPIs/08_06.html)
+- [01_Modules](./python/08_modulesPackageAPIs/08_01.html)
+- [02_Import](./python/08_modulesPackageAPIs/08_02.html)
+- [03_Packages](./python/08_modulesPackageAPIs/08_03.html)
+- [04_Python Package Index](./python/08_modulesPackageAPIs/08_04.html)
+- [05_Requests](./python/08_modulesPackageAPIs/08_05.html)
+- [06_APIs](./python/08_modulesPackageAPIs/08_06.html)
 
 ---
 
-- [Google Cert Rundown](./pythonic/extra/googleRundown.html)
+- [Google Cert Rundown](./python/extra/googleRundown.html)
 
 ***
 
