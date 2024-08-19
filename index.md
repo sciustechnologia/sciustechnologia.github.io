@@ -130,7 +130,7 @@ Testing AI
 
 ***
 
-## rundown 
+## Quick Python rundown 
 - [Python roadmap](./python/00.html) 
 
 ## [0 Sequences](./python/02_string_listTuple/06_sequences.html)
