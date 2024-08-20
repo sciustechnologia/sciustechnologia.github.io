@@ -1,5 +1,5 @@
 ---
-    title: UCB Python - lecture - Default Dictionary 
+    title: Default Dictionary 
     layout: default
 ---
 
