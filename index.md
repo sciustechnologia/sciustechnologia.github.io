@@ -205,7 +205,7 @@ Testing AI
 
 - [01_creating Objects](./python/07_oop/0701_CreatingObjects.html)
 - [02_defining Classes](./python/07_oop/0702_DefiningClasses.html)
-- [03_special Methods](./pythonic/07_oop/0703_SpecialMethods.html)
+- [03_special Methods](./python/07_oop/0703_SpecialMethods.html)
 - [04_Encapsulation](./python/07_oop/0705_encapsulation.html)
 - [05_abstraction](./python/07_oop/0707_abstraction.html) 
 - [06_Inheritance](./python/07_oop/0704_Inheritance.html)
