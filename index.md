@@ -156,7 +156,7 @@ Testing AI
 - [04_loop Control Structures](./python/03_iteration/04_loopControlStructures.html)
 - [05_Programming Patterns](./python/03_iteration/05_programmingPatterns.html)
 - [06_Comprehension](./python/03_iteration/06_comprehension.html)
-- [07_Iterator](./python/06_functions/0307_iterator.html)
+- [07_Iterator](./python/03_iteration/0307_iterator.html)
 
 ## [4 set & dict:](./python/04_set_dict/04.html)
 
