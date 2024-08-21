@@ -1,5 +1,5 @@
 ---
-title: lec_09 Tuples
+title: Python - Tuples
 layout: default
 ---
 
