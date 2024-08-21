@@ -3,7 +3,9 @@ title: Python - Examples of Application - Search
 layout: default
 ---
 
-1. Searching in a List
+##  Examples - Search
+
+### 1. Searching in a List
 
 ```python
 numbers = [21, 1, 45, 78, 3, 5, 8, 2, 50, 4]
