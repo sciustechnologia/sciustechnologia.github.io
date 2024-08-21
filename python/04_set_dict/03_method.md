@@ -3,6 +3,8 @@ title: Python - Dictionary method
 layout: default
 ---
 
+## Dictionary method
+
 * length function
 * content methods
 * manipulation methods
