@@ -1,9 +1,7 @@
 ---
-title: lec_04 String Methods
+title: Python - String Methods
 layout: default
 ---
-
-||[back](../index.html)
 
 ## String Methods
 
