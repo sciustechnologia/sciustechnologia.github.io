@@ -1,9 +1,9 @@
 ---
-title: 03_ Iteration_lec_03_Range
+title: Python - Iteration Range
 layout: default
 ---
 
-### Iterating by Counting
+## Iterating by Counting
 
 * A common task in programming
 * Used with loops
