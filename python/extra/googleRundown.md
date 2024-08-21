@@ -1588,11 +1588,11 @@ milky.speak()
 
 ### docs
 
-> [docs.python](https://docs.python.org/3/tutorial/index.html)
-> [think-python](https://greenteapress.com/wp/think-python/)
-> [shell](https://www.python.org/shell/)
-> [online_python_interpreter](https://www.onlinegdb.com/online_python_interpreter)
-> [repl.it](https://repl.it/languages/python3)
+|| [docs.python](https://docs.python.org/3/tutorial/index.html)
+|| [think-python](https://greenteapress.com/wp/think-python/)
+|| [shell](https://www.python.org/shell/)
+|| [online_python_interpreter](https://www.onlinegdb.com/online_python_interpreter)
+|| [repl.it](https://repl.it/languages/python3)
 
 > https://www.tutorialspoint.com/execute_python3_online.php
 > https://rextester.com/l/python3_online_compiler
