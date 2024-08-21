@@ -1,5 +1,5 @@
 ---
-title: lec_06 Sequences
+title: Python Sequences
 layout: default
 ---
 
