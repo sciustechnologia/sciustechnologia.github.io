@@ -1,10 +1,9 @@
 ---
-title: 0707_OOP_Encapsulation
+title: Python OOP_Encapsulation
 layout: default
 ---
 
-
-### Encapsulation
+## Encapsulation
 
 * bundling the data (attributes) and methods (functions) that operate on the data into a single unit (a class). This helps in hiding the internal state of objects and restricting direct access to some of their components.
 * helps in keeping the internal state of objects safe from unintended modifications and allows for better control over how attributes are accessed and modified.
