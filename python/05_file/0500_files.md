@@ -3,10 +3,6 @@ title: UCB Python - lecture - Files
 layout: default
 ---
 
-> [back](./index.html)
-
----
-
 ## Files
 
 * Define files
@@ -71,3 +67,8 @@ Types of files: Text files and Binary files
   * relative path format
     * partial pathname and the filename
     * Current working directory part can be omitted
+
+---
+
+> [back](./index.html)
+
