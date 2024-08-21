@@ -116,20 +116,3 @@ print(new_tuple)  # Output: (1, 20, 30, 4, 5)
 * Creating a New Tuple: To "replace" an item in a tuple, you slice the original tuple into parts before and after the item you want to replace, then concatenate these parts with the new item or items enclosed in parentheses ( ).
 
 * Tuple Concatenation: Use tuple slicing `(my_tuple[start:end])` and tuple concatenation `(+)` to create a new tuple that appears as if items have been replaced.
-
-
-
-
-
-
-
-```python
-
-```
-
-
-
-
-```python
-
-```
