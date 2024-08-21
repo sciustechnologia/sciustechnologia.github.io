@@ -20,7 +20,7 @@ else:
     print(f"{element} is not in the list")
 ```
 
-2. Searching in a Set
+### 2. Searching in a Set
 
 ```python
 numbers_set = {21, 1, 45, 78, 3, 5, 8, 2, 50, 4}
@@ -35,7 +35,7 @@ else:
     print(f"{element} is not in the set")
 ```
 
-3. Searching in a Dictionary
+### 3. Searching in a Dictionary
 
 ```python
 numbers_dict = {21: 'a', 1: 'b', 45: 'c', 78: 'd', 3: 'e'}
@@ -50,7 +50,7 @@ else:
     print(f"Key {key} is not in the dictionary")
 ```
 
-4. Searching in a Min-Heap (Using heapq)
+### 4. Searching in a Min-Heap (Using heapq)
 
 * Searching for an element in a heap is less straightforward since heaps are designed for efficient access to the smallest element. You would need to check the presence of an element linearly.
 
@@ -71,7 +71,7 @@ else:
     print(f"{element} is not in the heap")
 ```
 
-5. Searching in a Tuple
+### 5. Searching in a Tuple
 
 ```python
 numbers_tuple = (21, 1, 45, 78, 3, 5, 8, 2, 50, 4)
@@ -86,12 +86,12 @@ else:
     print(f"{element} is not in the tuple")
 ```
 
-Summary of Search Methods
-Lists: Use in operator or index() method.
-Sets: Use in operator (very efficient due to hash table implementation).
-Dictionaries: Use in operator for keys.
-Heaps: Use in operator (no efficient way to directly search; must check linearly).
-Tuples: Use in operator or index() method.
+### Summary of Search Methods
+* Lists: Use in operator or index() method.
+* Sets: Use in operator (very efficient due to hash table implementation).
+* Dictionaries: Use in operator for keys.
+* Heaps: Use in operator (no efficient way to directly search; must check linearly).
+* Tuples: Use in operator or index() method.
 
 Example 
 
