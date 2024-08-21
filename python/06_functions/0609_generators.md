@@ -1,9 +1,9 @@
 ---
-title: 06_lec_function_generators
+title: Python || function_generators
 layout: default
 ---
 
-### generators 
+## Generators 
 
 - Generators are particularly useful when dealing with large datasets or when you need to generate values on-the-fly without storing them all in memory at once. 
 - A generator is an iterator produced by a generator function.
