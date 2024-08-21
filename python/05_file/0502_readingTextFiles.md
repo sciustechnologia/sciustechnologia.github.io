@@ -1,12 +1,8 @@
 ---
-title: UCB Python - lecture -  Reading Text Files 
+title: Python -  Reading Text Files 
 layout: default
 ---
-|| [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
-|| [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [Exceptions](./exceptions.html) ||
-|| [OOP](./oop.html) || [Algorithm](./algorithm.html) ||[Data Structure](./datastructure.html) ||[back](./index.html)
 
----
 
 ## Reading Text Files
 
@@ -252,3 +248,11 @@ with open('lines.txt', 'r') as f:
 ### flat files
 
 * read form a file into memory and write from memory to the file.
+
+---
+
+  || [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
+|| [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [Exceptions](./exceptions.html) ||
+|| [OOP](./oop.html) || [Algorithm](./algorithm.html) ||[Data Structure](./datastructure.html) ||[back](./index.html)
+
+---
