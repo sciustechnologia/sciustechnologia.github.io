@@ -3,6 +3,8 @@ title: Python - Examples of Application - Search
 layout: default
 ---
 
+## Examples - Search 
+
 1. Searching in a List
 
 ```python
