@@ -250,13 +250,9 @@ Testing AI
 - [05_Requests](./python/08_modulesPackageAPIs/08_05.html)
 - [06_APIs](./python/08_modulesPackageAPIs/08_06.html)
 
----
-
-- [Google Cert Rundown](./python/extra/googleRundown.html)
-
 ***
 
-## ADB cmds [still got to collect them from my notes]
+## ADB cmds [still updating]
 
 - [basics](./testing/flashing.html)
 
