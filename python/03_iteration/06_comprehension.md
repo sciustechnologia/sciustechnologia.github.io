@@ -1,5 +1,5 @@
 ---
-title: 03_Iteration_lec_06_Comprehension
+title: Python - Iteration - Comprehension
 layout: default
 ---
 
