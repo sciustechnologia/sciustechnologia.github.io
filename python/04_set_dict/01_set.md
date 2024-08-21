@@ -1,9 +1,9 @@
 ---
-title: Set
+title: Python - Sets
 layout: default
 ---
 
-### What are Sets?
+## Sets
 
 * container of unique items
 * Can only contain immutable items
