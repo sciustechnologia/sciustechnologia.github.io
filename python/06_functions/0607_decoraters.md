@@ -1,9 +1,9 @@
 ---
-title: 06_lec_function_decoraters
+title: Python || function_decoraters
 layout: default
 ---
 
-### Decorators
+## Decorators
 
 -  to modify or enhance the behavior of functions or methods without changing their code. 
 - implemented using functions and the @ symbol followed by the decorator name, which is then placed above the function definition.
