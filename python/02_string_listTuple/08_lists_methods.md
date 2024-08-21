@@ -1,9 +1,7 @@
 ---
-title: lec_07 Lists Methods
+title: Python - Lists Methods
 layout: default
 ---
-
- ||[back](../index.html)
 
 ## String Methods
 
