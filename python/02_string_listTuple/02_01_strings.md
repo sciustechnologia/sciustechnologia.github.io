@@ -1,10 +1,7 @@
 ---
-title: lec_01 Strings
+title: Python - Strings
 layout: default
 ---
-|| [Strings](./02_01_strings.html) || [strings_slicing](./02_02_strings_slicing.html) || [stringOperators_functions](./03_stringOperators_functions.html) || [String_methods](./04_string_methods.html) || [String_formatting](./05_string_formatting.html) ||
- ||[back](../index.html)
-
 
 ## Strings
 
