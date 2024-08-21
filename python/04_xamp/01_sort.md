@@ -5,7 +5,7 @@ layout: default
 
 ### Sorting Data Structures
 
-#1. Sorting Lists
+### 1. Sorting Lists
 
 * `sorted()` function or the `sort()` method for one-time sorting.
 
@@ -15,7 +15,7 @@ sorted_numbers = sorted(numbers)
 print("Sorted numbers:", sorted_numbers)
 ```
 
-#2. Sorting Sets
+### 2. Sorting Sets
 
 * Sets automatically handle unique elements but do not maintain any order. 
 * For sorted operations, convert to a list and then sort.
@@ -27,7 +27,7 @@ print("Sorted set:", sorted_numbers)
 ```
 
 
-#3. Sorting Dictionaries
+### 3. Sorting Dictionaries
 
 * sort a dictionary by keys or values.
 
@@ -43,8 +43,7 @@ sorted_by_values = dict(sorted(numbers_dict.items(), key=lambda item: item[1]))
 print("Sorted by values:", sorted_by_values)
 ```
 
-
-#4. Sorting using Heaps
+### 4. Sorting using Heaps
 
 ```python
 import heapq
@@ -66,6 +65,8 @@ print("Sorted numbers:", sorted_numbers)
 # Output
 Sorted numbers: [1, 2, 3, 4, 5, 8, 21, 45, 50, 78]
 ```
+
+---
 
 ### Sorting using Heaps `heapq.heapify` followed by repeated `heapq.heappop`
 
