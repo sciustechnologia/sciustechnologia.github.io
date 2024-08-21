@@ -1,5 +1,5 @@
 ---
-title: Python 0706_polymorphism
+title: Python Polymorphism
 layout: default
 ---
 
@@ -10,10 +10,10 @@ layout: default
 
 two main types of polymorphism in Python:
 
-Method Overriding: 
+### Method Overriding: 
 This occurs when a subclass provides a specific implementation of a method that is already defined in its superclass. When the method is called on an object of the subclass, the subclass's implementation is executed instead of the superclass's implementation.
 
-Duck Typing: 
+### Duck Typing: 
 This is a concept in Python where the type or the class of an object is less important than the methods it defines. If an object implements a particular method or set of methods, it can be used wherever that method or set of methods is expected, regardless of its actual type.
 
 ```python
