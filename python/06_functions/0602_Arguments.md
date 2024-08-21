@@ -1,10 +1,6 @@
 ---
-title: Python - FunctionFunction Arguments 
+title: Python || Function Arguments 
 layout: default
----
-
-||[back](./index.html)
-
 ---
 
 ## Function Arguments
