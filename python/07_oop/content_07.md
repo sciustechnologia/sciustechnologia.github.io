@@ -1,3 +1,8 @@
+---
+title: Python Designing Classes
+layout: default
+---
+
 ## Designing Classes
 
 ### Designing Classes Example Rectangle Class
