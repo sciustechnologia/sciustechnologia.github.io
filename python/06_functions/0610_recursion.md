@@ -2,13 +2,11 @@
 title: Function - Recursion
 layout: default
 ---
-> [back](./index.html)
 
----
 
-[realpython](https://realpython.com/python-recursion/#why-use-recursion)
 
-### What is a recursive function
+## recursive function
+> [realpython](https://realpython.com/python-recursion/#why-use-recursion)
 
 - A function that calls itself is said to be recursive.
 - Self-referential situation
