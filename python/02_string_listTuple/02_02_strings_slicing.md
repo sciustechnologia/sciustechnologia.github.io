@@ -1,9 +1,7 @@
 ---
-title: lec_02_String Indexing and Slicing
+title: Python - String Indexing and Slicing
 layout: default
 ---
-
- ||[back](../index.html)
 
 ## String Indexing and Slicing
 
