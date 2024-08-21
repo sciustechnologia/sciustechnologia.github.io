@@ -1,9 +1,7 @@
 ---
-title: lec_05 String Formatting
+title: Python - String Formatting
 layout: default
 ---
-
-||[back](../index.html)
 
 ## String Methods
 
