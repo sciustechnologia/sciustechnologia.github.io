@@ -1,9 +1,9 @@
 ---
-title: 0708_OOP_SetterGetter
+title: Python OOP_SetterGetter
 layout: default
 ---
 
-### Setters and getters 
+## Setters and getters 
 
 - are methods used to access and modify the attributes of an object in a controlled manner. 
 - They are part of the concept of encapsulation, which allows for better control over the access to attributes of a class.
