@@ -3,7 +3,6 @@ title:  Python -  Writing Text Files
 layout: default
 ---
 
-
 ## Writing Text Files
 
 * Getting a File object 
@@ -12,7 +11,7 @@ layout: default
 * Writelines Method
 * Writelines Example
 
-## Getting a File object 
+### Getting a File object 
 
 * Get a file object with:
   * a filename of filepath
@@ -22,7 +21,7 @@ layout: default
 with open(filename, 'w') as f:
 ```
 
-## Write Method
+### Write Method
 
 Syntax
 
@@ -32,7 +31,7 @@ f.write(s)
 
 * passing/write a string s to f
 
-## Write Mothod Example
+### Write Mothod Example
 
 ```python
 with open('out.txt', 'w') as f: 
@@ -41,7 +40,7 @@ with open('out.txt', 'w') as f:
     f.write("Good night!\n")
 ```
 
-## Writelines Method
+### Writelines Method
 
 Syntax
 
