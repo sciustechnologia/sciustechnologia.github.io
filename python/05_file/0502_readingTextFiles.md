@@ -3,7 +3,6 @@ title: Python -  Reading Text Files
 layout: default
 ---
 
-
 ## Reading Text Files
 
 * File Objects
