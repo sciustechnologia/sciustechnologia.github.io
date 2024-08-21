@@ -1,4 +1,4 @@
-### Designing Classes
+## Designing Classes
 
 ### Designing Classes Example Rectangle Class
 
