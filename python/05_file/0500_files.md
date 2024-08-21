@@ -1,5 +1,5 @@
 ---
-title: UCB Python - lecture - Files 
+title: Python - Files 
 layout: default
 ---
 
