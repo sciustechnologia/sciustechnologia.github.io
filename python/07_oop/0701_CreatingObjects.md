@@ -1,14 +1,9 @@
 ---
-title: 07_OOP_CreatingObjects
+title: Python OOP_CreatingObjects
 layout: default
 ---
 
-Objective
-* Learn what objects and instances are.
-* Learn how to create and use objects.
-
-
-### Creating Objects (Instances)
+## Creating Objects (Instances)
 
 * a class provides a template for an object
 * instantiation
