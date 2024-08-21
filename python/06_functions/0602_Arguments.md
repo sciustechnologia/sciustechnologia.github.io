@@ -5,8 +5,6 @@ layout: default
 
 ## Function Arguments
 
-### Arguments and Parameters
-
 - Argument = value you pass to the function
 - Parameter = witin the function
 
