@@ -22,7 +22,8 @@ class Animal:
         raise NotImplementedError("Subclasses must implement this method")
 
 '''
-Both Dog and Cat classes inherit from the Animal class and override its speak() method with their own implementations.
+Both Dog and Cat classes inherit from the Animal class and
+override its speak() method with their own implementations.
 '''
 class Dog(Animal):
     def speak(self):
@@ -45,7 +46,9 @@ print(make_sound(dog))  # Output: Woof!
 print(make_sound(cat))  # Output: Meow!
 
 '''
-The make_sound() function accepts any object that has a speak() method (duck typing), allowing it to work with both Dog and Cat objects interchangeably.
-When make_sound() is called with a Dog object, it executes the speak() method of the Dog class, and when called with a Cat object, it executes the speak() method of the Cat class.
+The make_sound() function accepts any object that has a speak() method (duck typing),
+allowing it to work with both Dog and Cat objects interchangeably.
+When make_sound() is called with a Dog object, it executes the speak() method of the Dog class,
+and when called with a Cat object, it executes the speak() method of the Cat class.
 '''
 ```
