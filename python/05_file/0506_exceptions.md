@@ -5,22 +5,15 @@ layout: default
 
 
 ## Exception handling
+> Even if a statement of expression is syntactically correct, errors may still occure when a program is running.
 
 ![Image of exception handling structure](./exceptionHandling.png "exceptionHandling")
 
-* what are Exceptions
-* Exception Types
-* Why Catch Exceptions
-* Catchign Exceptions
-* Open function Exceptions
-
-Exceptions are: 
-
-* Even if a statement of expression is syntactically correct, errors may still occure when a program is running. 
-* are errors deteccted during Execution
-* are thrown or raised from anywhere in a program
-* print a descriptive error message and/or debugging information (name of th file and the line where the eror occured)
-* terminate a program
+Exceptions: 
+* are errors deteccted during Execution.
+* are thrown or raised from anywhere in a program.
+* print a descriptive error message and/or debugging information (name of th file and the line where the eror occured).
+* terminate a program.
 
 ### ValueError: 
 
@@ -129,6 +122,12 @@ except PermissionError:
 except FileNotFoundError:
     print('does_not_exist.txt' not found)
 ```
+
+* what are Exceptions
+* Exception Types
+* Why Catch Exceptions
+* Catchign Exceptions
+* Open function Exceptions
 
 ---
 
