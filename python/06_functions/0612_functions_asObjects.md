@@ -1,9 +1,6 @@
 ---
-title: UCB Python - lecture -  05_Functions as Objects 
+title:  Python || Functions as Objects 
 layout: default
----
->> || [back](./index.html)
-
 ---
 
 ## Functions as Objects
