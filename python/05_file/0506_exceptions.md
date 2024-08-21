@@ -3,13 +3,12 @@ title:  Python -  Exceptions
 layout: default
 ---
 
-
-## Exception handling
+## Exceptions 
 > Even if a statement of expression is syntactically correct, errors may still occure when a program is running.
 
 ![Image of exception handling structure](./exceptionHandling.png "exceptionHandling")
 
-Exceptions: 
+### Exceptions: 
 * are errors deteccted during Execution.
 * are thrown or raised from anywhere in a program.
 * print a descriptive error message and/or debugging information (name of th file and the line where the eror occured).
@@ -123,6 +122,7 @@ except FileNotFoundError:
     print('does_not_exist.txt' not found)
 ```
 
+Exceptions handling questions could be
 * what are Exceptions
 * Exception Types
 * Why Catch Exceptions
