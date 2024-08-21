@@ -1,9 +1,6 @@
 ---
-title: UCB Python - lecture -  Namespace 
+title:  Python -  Namespace 
 layout: default
----
-||[back](./index.html)
-
 ---
 
 ## Namespace
