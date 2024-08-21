@@ -1,16 +1,11 @@
-GoogleIT_Automation_w_Python_Cert
+---
+title: Python GoogleIT_Automation_w_Python_Cert
+layout: default
+---
 
-https://docs.python.org/3/tutorial/index.html
-https://greenteapress.com/wp/think-python/
+## Notes from the Google_Automation_w_Python_Cert
 
-https://www.python.org/shell/
-https://www.onlinegdb.com/online_python_interpreter
-https://repl.it/languages/python3
-https://www.tutorialspoint.com/execute_python3_online.php
-https://rextester.com/l/python3_online_compiler
-https://trinket.io/python3
-[Python documentation](https://docs.python.org/3/)
-
+---
 
 ```python
 friends = ['Taylor', 'Alex', 'Pat', 'Eli']
@@ -1587,85 +1582,17 @@ class Cow(Animal):
 	sound = “Moooooo!”
 milky = Cow(“Milky White”)
 milky.speak()
-
 ```
 
-```python
+---
 
-```
+### docs
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
+[docs.python](https://docs.python.org/3/tutorial/index.html)
+[think-python](https://greenteapress.com/wp/think-python/)
+[shell](https://www.python.org/shell/)
+[online_python_interpreter](https://www.onlinegdb.com/online_python_interpreter)
+[repl.it](https://repl.it/languages/python3)
+https://www.tutorialspoint.com/execute_python3_online.php
+https://rextester.com/l/python3_online_compiler
+https://trinket.io/python3
