@@ -3,7 +3,7 @@ title: Python - Dictionary
 layout: default
 ---
 
-### What are Dictionaries?
+## Dictionaries
 
 * items are Key-Value pairs 
 * are not sequences but iterables
