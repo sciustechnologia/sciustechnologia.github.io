@@ -1,11 +1,11 @@
 ---
-title: 07_OOP_Special Methods
+title: Python OOP_Special Methods
 layout: default
 ---
 
-### What are Special Methods?
+## Special Methods
 
-- indicated by dunders (double underscore) around the method name
+- are indicated by dunders (double underscore) around the method name
 - can be modified to behave differently
 
 ### Common Special Methods
