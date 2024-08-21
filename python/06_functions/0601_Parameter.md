@@ -3,7 +3,7 @@ title: Python||Functions||Paramter
 layout: default
 ---
 
-## Paramter
+## Parameter
 
 Syntax
 
