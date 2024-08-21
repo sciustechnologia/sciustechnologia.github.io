@@ -3,10 +3,6 @@ title: Python - Programming Paradigms
 layout: default
 ---
 
-> [back](./index.html)
-
----
-
 ## Programming Paradigms
 
 * models for best practices to manage more complex code and decrease development time. 
