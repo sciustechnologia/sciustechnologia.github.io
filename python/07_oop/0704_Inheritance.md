@@ -1,9 +1,9 @@
 ---
-title: 07_OOP_Inheritance
+title: Python OOP_Inheritance
 layout: default
 ---
 
-### What is Inheritance?
+## Inheritance
 
 - Creating a new class from an existing class, inheriting its attributes and methods.
 
