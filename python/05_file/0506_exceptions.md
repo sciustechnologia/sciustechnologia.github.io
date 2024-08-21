@@ -1,12 +1,8 @@
 ---
-title: UCB Python - lecture -  Exceptions 
+title:  Python -  Exceptions 
 layout: default
 ---
-|| [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
-|| [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [Exceptions](./exceptions.html) ||
-|| [OOP](./oop.html) || [Algorithm](./algorithm.html) ||[Data Structure](./datastructure.html) ||[back](./index.html)
 
----
 
 ## Exception handling
 
@@ -133,3 +129,11 @@ except PermissionError:
 except FileNotFoundError:
     print('does_not_exist.txt' not found)
 ```
+
+---
+
+|| [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
+|| [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [Exceptions](./exceptions.html) ||
+|| [OOP](./oop.html) || [Algorithm](./algorithm.html) ||[Data Structure](./datastructure.html) ||[back](./index.html)
+
+---
