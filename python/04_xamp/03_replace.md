@@ -3,6 +3,8 @@ title: Python - Examples of Application - Replacing
 layout: default
 ---
 
+## Examples - Replacing 
+
 ### 1. Replacing Items in a List 
 
 * List (mutable: you can change their elements directly by accessing them via their indices)
