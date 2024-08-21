@@ -1,10 +1,6 @@
 ---
-title: UCB Python - Chapter 14 -  file operations
+title: Python - File operations
 layout: default
----
-
-> [back](./index.html)
-
 ---
 
 ## File Operations
@@ -377,3 +373,9 @@ if os.path.exists("demofile.txt"):
 else:
   print("The file does not exist")
 ```
+
+---
+
+> [back](./index.html)
+
+---
