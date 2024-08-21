@@ -1,9 +1,7 @@
 ---
-title: lec_07 Lists
+title: Python - Lists
 layout: default
 ---
-
- ||[back](../index.html)
 
 ## Lists
 
@@ -136,3 +134,7 @@ print(dict_of_lists["fruits"])   # Output: ['apple', 'banana', 'orange']
 print(dict_of_lists["colors"][0])  # Output: red
 print(dict_of_lists["numbers"][2])  # Output: 3
 ```
+
+---
+ 
+ ||[back](../index.html)
