@@ -6,7 +6,7 @@ layout: default
 
 ## Exception handling
 
-![Image of exception handling structure](./assets/exceptionHandling.png "exceptionHandling")
+![Image of exception handling structure](./exceptionHandling.png "exceptionHandling")
 
 * what are Exceptions
 * Exception Types
