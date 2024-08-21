@@ -3,13 +3,10 @@ title: Function - Recursion
 layout: default
 ---
 
-
-
 ## recursive function
+> A function that calls itself.
 > [realpython](https://realpython.com/python-recursion/#why-use-recursion)
-
-- A function that calls itself is said to be recursive.
-- Self-referential situation
+> Self-referential situation.
 
 ### A recursive function has:
 
