@@ -1,10 +1,9 @@
 ---
-title: 03_Iterating Over Collections
+title: Python - Iterating Over Collections
 layout: default
 ---
 
-
-### Iterating Over Collections
+## Iterating Over Collections
 
 - Iterators are commonly used to iterate over collections like lists, tuples, dictionaries, etc.
 
