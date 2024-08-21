@@ -1,11 +1,9 @@
 ---
-title: Python - Functions 
+title: Python||Functions||Paramter
 layout: default
 ---
 
-||[back](./index.html)
-
-### Paramter
+## Paramter
 
 Syntax
 
