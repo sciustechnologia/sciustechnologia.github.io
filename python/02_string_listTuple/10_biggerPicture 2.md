@@ -1,8 +1,9 @@
 ---
-title: strings - bigger picture
+title: Python - strings - the bigger picture
 layout: default
 ---
 
+## Put it all together
 
 1. creating a list
 2. iterating over it to search for a character provided by the user, 
