@@ -3,7 +3,7 @@ title:  Python -  Namespace
 layout: default
 ---
 
-## Namespace
+## Namespace [still draft]
 
 * Mapping ("Look up table of names") between names to objects in memory
 * Esserntially a dictionary
@@ -11,9 +11,9 @@ layout: default
 * refers to a mapping from names to objects. It's like a dictionary where the keys are the names of variables and the values are the objects those names refer to. Namespaces are used to avoid naming conflicts. Python has various namespaces, such as the global namespace (module-level), local namespace (function-level), class namespace, etc.
 
 
-|| name | value
-|| variable name | value
-|| function name | function definition
+|| name || value
+|| variable name || value
+|| function name || function definition
 
 * when a function is defined it is places in the namespace
 * function name and function body are added to the namespace table
@@ -113,9 +113,6 @@ inside print_global: fruitbat
 ```
 
 * if you try to get the value of the global variable and change it within the function, you get an error
-
-page 162
-
 
 
 * locals() returns a dictionary of the contents of the local namespace
