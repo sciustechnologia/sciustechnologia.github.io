@@ -1,9 +1,9 @@
 ---
-title: 07_OOP_Defining Classes
+title: Python || OOP_Defining Classes
 layout: default
 ---
 
-### Class Definition
+## Class Definition
 
 - in python all data types are classes - a class is a data type.
 
