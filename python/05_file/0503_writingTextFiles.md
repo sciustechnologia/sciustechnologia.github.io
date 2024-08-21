@@ -1,12 +1,8 @@
 ---
-title: UCB Python - lecture -  Writing Text Files 
+title:  Python -  Writing Text Files 
 layout: default
 ---
-|| [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
-|| [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [Exceptions](./exceptions.html) ||
-|| [OOP](./oop.html) || [Algorithm](./algorithm.html) ||[Data Structure](./datastructure.html) ||[back](./index.html)
 
----
 
 ## Writing Text Files
 
@@ -73,5 +69,12 @@ with open('out.txt', 'w') as f:
 with open('out.txt', 'w') as f: 
     lines = [f'line{n}\n' for n in range(1,6)]
     f.writelines(lines)
-   
 ```
+
+---
+
+|| [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
+|| [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [Exceptions](./exceptions.html) ||
+|| [OOP](./oop.html) || [Algorithm](./algorithm.html) ||[Data Structure](./datastructure.html) ||[back](./index.html)
+
+---
