@@ -1,5 +1,5 @@
 ---
-title: lec_03 String Operators and Functions
+title: Python - String Operators and Functions
 layout: default
 ---
 
