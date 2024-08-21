@@ -3,7 +3,7 @@ title: Python OOP_Special Methods
 layout: default
 ---
 
-## Special Methods
+## _Special__ Methods
 
 - are indicated by dunders (double underscore) around the method name
 - can be modified to behave differently
@@ -16,8 +16,10 @@ layout: default
 | str(obj) | `__str__(self)` | string representation | 
 | repr(obj) | `__repr__(self)` | printable representation | 
 
-str(obj): invokes the dunder str method
-repr(obj): whenever an object is evaluated in interactive mode, called the ripper function
+`str(obj)`: invokes the dunder str method
+`repr(obj)`: whenever an object is evaluated in interactive mode, called the ripper function
+
+---
 
 ### `__init__` Methods Example
 
