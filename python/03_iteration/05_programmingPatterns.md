@@ -1,5 +1,5 @@
 ---
-title: 03_lec_05_Programming Patterns
+title: Python - Programming Patterns
 layout: default
 ---
 
