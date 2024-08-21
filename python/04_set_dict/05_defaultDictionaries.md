@@ -1,9 +1,9 @@
 ---
-    title: Default Dictionary 
+    title: Python - Default Dictionary 
     layout: default
 ---
 
-### Dictionary Types
+## Dictionary Types
 
     * Dictionary types with special properties
       * Default Dictionary
