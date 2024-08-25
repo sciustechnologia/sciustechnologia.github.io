@@ -232,6 +232,8 @@ Testing AI
   - [Quick Sort w/ list](./python/10_algos/10016.html)
 - [Linear Search](./python/10_algos/1002.html)
 - [Binary Search](./python/10_algos/10021.html)
+  - Binary Search [pytest](./python/10_algos/10021p.html)
+  - Binary Search [unitest](./python/10_algos/10021u.html)
 - [Graph](./python/10_algos/1003.html)
 - [Dynamic](./python/10_algos/1004.html)
 - [Tree](./python/10_algos/1005.html)
