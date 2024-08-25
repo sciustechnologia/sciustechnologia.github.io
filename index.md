@@ -223,7 +223,7 @@ Testing AI
 
 ## [9: Algorithms](./python/10_algos/10_algos.html)
 
-- Sorting
+- [Sorting](./python/10_algos/1000.html)
   - [Bubble Sort with lists](./python/10_algos/1001.html)
   - [Bubble Sort w/ Dictionaries](./python/10_algos/10012.html)
   - [Selection Sort with list](./python/10_algos/10013.html)
