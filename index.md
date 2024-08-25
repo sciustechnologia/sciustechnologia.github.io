@@ -223,7 +223,13 @@ Testing AI
 
 ## [9: Algorithms](./python/10_algos/10_algos.html)
 
-- [Sorting](./python/10_algos/1001.html)
+- Sorting
+  - [Bubble Sort with lists](./python/10_algos/1001.html)
+  - [Bubble Sort w/ Dictionaries](./python/10_algos/10012.html)
+  - [Selection Sort with list](./python/10_algos/10013.html)
+  - [Insertion Sort with list](./python/10_algos/10014.html)
+  - [Merge Sort with list](./python/10_algos/10015.html)
+  - [Quick Sort with list](./python/10_algos/10016.html)
 - [Search](./python/10_algos/1002.html)
 - [Graph](./python/10_algos/1003.html)
 - [Dynamic](./python/10_algos/1004.html)
