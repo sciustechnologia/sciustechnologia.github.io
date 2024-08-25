@@ -1,8 +1,51 @@
 ---
-title: 10_Algorithms
+title: Python Algos
 layout: default
 ---
 
+### Algos
+
+### 1. Sorting
+* Importance: Sorting algorithms are fundamental as they arrange data in a specified order (e.g., numerical or lexicographical).
+* Common Algorithms: Examples include Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort.
+* Ease of Learning: Some sorting algorithms (like Bubble Sort and Insertion Sort) are straightforward to grasp initially, while others (like Merge Sort and Quick Sort) might require a deeper understanding of recursion and divide-and-conquer strategies.
+
+### 2. Search
+* Importance: Searching algorithms are crucial for finding elements within data structures efficiently.
+* Common Algorithms: Binary Search is widely used for sorted arrays. Other methods include Linear Search and variations like Depth-First Search (DFS) and Breadth-First Search (BFS) for graph traversal.
+* Ease of Learning: Binary Search is relatively easy to understand once the concept of sorted arrays is clear. DFS and BFS require grasping graph theory concepts but are foundational for more complex algorithms.
+
+### 3. Graph
+* Importance: Graph algorithms deal with structures composed of nodes and edges, representing relationships between entities.
+* Common Algorithms: DFS, BFS, Dijkstra's algorithm for shortest paths, Prim's algorithm for minimum spanning trees, and Floyd-Warshall algorithm for all-pairs shortest paths.
+* Ease of Learning: Basic graph traversal (DFS, BFS) is manageable with practice. Advanced algorithms like Dijkstra's and Prim's involve more complex logic but are essential for solving real-world problems involving networks.
+
+### 4. Dynamic Programming (Dynamic)
+* Importance: Dynamic Programming (DP) optimizes solutions to problems with overlapping subproblems by storing results of subproblems to avoid redundant computations.
+* Common Algorithms: Fibonacci sequence calculation, Knapsack problem, Longest Common Subsequence (LCS), and matrix chain multiplication.
+* Ease of Learning: DP requires understanding recursive relations and optimal substructure. Starting with simpler problems and gradually progressing to more complex ones helps in mastering this technique.
+
+### 5. Tree
+* Importance: Trees are hierarchical data structures commonly used in computer science for representing hierarchical relationships.
+* Common Algorithms: Tree traversal (in-order, pre-order, post-order), Binary Search Tree (BST) operations (insertion, deletion, search), and AVL or Red-Black Trees for balanced trees.
+* Ease of Learning: Tree traversal methods are straightforward. BST operations and balanced tree algorithms involve more advanced concepts but are fundamental for efficient data management and search.
+
+### 6. String
+* Importance: String algorithms deal with operations and manipulations on strings, crucial in text processing and pattern matching.
+* Common Algorithms: Pattern matching (e.g., Knuth-Morris-Pratt algorithm), string sorting, and various substring search algorithms.
+* Ease of Learning: Basic string operations are easy to grasp. Advanced algorithms like pattern matching involve understanding algorithms that optimize search operations in strings.
+
+### 7. Math
+* Importance: Math algorithms cover a broad range of numerical computations and operations.
+* Common Algorithms: Prime number generation, modular arithmetic, greatest common divisor (GCD), and factorial computation.
+* Ease of Learning: Depending on the specific algorithm, math algorithms can vary in complexity. Simple arithmetic operations are straightforward, while number-theoretic algorithms might require understanding mathematical concepts.
+
+### 8. Numerical
+* Importance: Numerical algorithms focus on solving problems in numerical analysis, often involving approximation and optimization.
+* Common Algorithms: Newton-Raphson method for root finding, numerical integration (e.g., Simpson's rule), and linear programming algorithms (e.g., Simplex method).
+* Ease of Learning: Numerical algorithms often involve understanding iterative methods and numerical stability. They can be challenging due to numerical precision issues but are essential for scientific computing and optimization problems.
+
+***
 
 ## Usage in Algorithms
 
@@ -115,49 +158,6 @@ Use Cases:
 for i in range(5):
     print(i)  # Output: 0 1 2 3 4
 ```
-
-
-### prioritize learning based on both ease of understanding and common usage in practical applications
-
-### 1. Sorting
-* Importance: Sorting algorithms are fundamental as they arrange data in a specified order (e.g., numerical or lexicographical).
-* Common Algorithms: Examples include Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort.
-* Ease of Learning: Some sorting algorithms (like Bubble Sort and Insertion Sort) are straightforward to grasp initially, while others (like Merge Sort and Quick Sort) might require a deeper understanding of recursion and divide-and-conquer strategies.
-
-### 2. Search
-* Importance: Searching algorithms are crucial for finding elements within data structures efficiently.
-* Common Algorithms: Binary Search is widely used for sorted arrays. Other methods include Linear Search and variations like Depth-First Search (DFS) and Breadth-First Search (BFS) for graph traversal.
-* Ease of Learning: Binary Search is relatively easy to understand once the concept of sorted arrays is clear. DFS and BFS require grasping graph theory concepts but are foundational for more complex algorithms.
-
-### 3. Graph
-* Importance: Graph algorithms deal with structures composed of nodes and edges, representing relationships between entities.
-* Common Algorithms: DFS, BFS, Dijkstra's algorithm for shortest paths, Prim's algorithm for minimum spanning trees, and Floyd-Warshall algorithm for all-pairs shortest paths.
-* Ease of Learning: Basic graph traversal (DFS, BFS) is manageable with practice. Advanced algorithms like Dijkstra's and Prim's involve more complex logic but are essential for solving real-world problems involving networks.
-
-### 4. Dynamic Programming (Dynamic)
-* Importance: Dynamic Programming (DP) optimizes solutions to problems with overlapping subproblems by storing results of subproblems to avoid redundant computations.
-* Common Algorithms: Fibonacci sequence calculation, Knapsack problem, Longest Common Subsequence (LCS), and matrix chain multiplication.
-* Ease of Learning: DP requires understanding recursive relations and optimal substructure. Starting with simpler problems and gradually progressing to more complex ones helps in mastering this technique.
-
-### 5. Tree
-* Importance: Trees are hierarchical data structures commonly used in computer science for representing hierarchical relationships.
-* Common Algorithms: Tree traversal (in-order, pre-order, post-order), Binary Search Tree (BST) operations (insertion, deletion, search), and AVL or Red-Black Trees for balanced trees.
-* Ease of Learning: Tree traversal methods are straightforward. BST operations and balanced tree algorithms involve more advanced concepts but are fundamental for efficient data management and search.
-
-### 6. String
-* Importance: String algorithms deal with operations and manipulations on strings, crucial in text processing and pattern matching.
-* Common Algorithms: Pattern matching (e.g., Knuth-Morris-Pratt algorithm), string sorting, and various substring search algorithms.
-* Ease of Learning: Basic string operations are easy to grasp. Advanced algorithms like pattern matching involve understanding algorithms that optimize search operations in strings.
-
-### 7. Math
-* Importance: Math algorithms cover a broad range of numerical computations and operations.
-* Common Algorithms: Prime number generation, modular arithmetic, greatest common divisor (GCD), and factorial computation.
-* Ease of Learning: Depending on the specific algorithm, math algorithms can vary in complexity. Simple arithmetic operations are straightforward, while number-theoretic algorithms might require understanding mathematical concepts.
-
-### 8. Numerical
-* Importance: Numerical algorithms focus on solving problems in numerical analysis, often involving approximation and optimization.
-* Common Algorithms: Newton-Raphson method for root finding, numerical integration (e.g., Simpson's rule), and linear programming algorithms (e.g., Simplex method).
-* Ease of Learning: Numerical algorithms often involve understanding iterative methods and numerical stability. They can be challenging due to numerical precision issues but are essential for scientific computing and optimization problems.
 
 ### Learning Order Recommendation:
 1. Sorting and Search: Start with basic sorting algorithms (e.g., Bubble Sort, Insertion Sort) and Binary Search, as they provide foundational understanding of algorithms and data structures.
