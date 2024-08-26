@@ -397,5 +397,43 @@ class TestCountdown(unittest.TestCase):
  
 
 ### Test-Driven Development 
+> for the countdown function
 
+```python
+import unittest
 
+class TestCountdown(unittest.TestCase):
+
+    def test_countdown_positive(self):
+        # This test will fail initially, as the function doesn't exist yet
+        self.assertEqual(countdown(3), [3, 2, 1, 0]) 
+
+    def test_countdown_zero(self):
+        # This test will also fail initially
+        self.assertEqual(countdown(0), [0])
+
+# No implementation of countdown() yet!
+```
+
+### Simplest Code to Pass the Tests
+
+```python
+def countdown(n):
+    # Minimal implementation to pass the first test
+    if n == 3:
+        return [3, 2, 1, 0]
+    elif n == 0:
+        return [0]
+```
+
+### Refactor and Expand for Full Coverage
+
+```python
+def countdown(n):
+    result = []
+    result.append(n)
+    if n == 0:
+        return result
+    else:
+        return result + countdown(n - 1)
+```
