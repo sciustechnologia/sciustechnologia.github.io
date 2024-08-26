@@ -231,6 +231,7 @@ Testing AI
   - [Merge Sort w/ list](./python/10_algos/10015.html)
   - [Quick Sort w/ list](./python/10_algos/10016.html)
 - [Linear Search](./python/10_algos/1002.html)
+  - Linear Search [unitest](./python/10_algos/1002u.html)
 - [Binary Search](./python/10_algos/10021.html)
   - Binary Search [pytest](./python/10_algos/10021p.html)
   - Binary Search [unitest](./python/10_algos/10021u.html)
