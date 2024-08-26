@@ -105,6 +105,9 @@ def countdown(n):
 0
 ```
 
+* code simulates the behavior of a recursive function by using a list (call_stack) to keep track of the function calls.
+* It builds the call stack as it counts down from the initial value, and then processes it in reverse order, popping each function call from the stack until the base case is reached.
+  
 ```python
 def countdown(value):
   call_stack = []
@@ -118,7 +121,25 @@ def countdown(value):
     print("Popping {} from call stack".format(call_stack.pop()))
     print("Call Stack:",call_stack)
 countdown(4)
-'''
+```
+
+* Building the Call Stack:
+  * `while value > 0`: This loop runs as long as value is greater than zero.
+  * `call_stack.append({"input":value})` Adds a dictionary to the call_stack list. This dictionary represents a function call with the input value.
+  * `print("Call Stack:",call_stack)` visualization of current state of the `call_stack`.
+  * `value -= 1` Decrements the value by one, preparing for the next iteration of the loop.
+
+* Base Case
+  * `print("Base Case Reached")` > executed once the while loop ends (when value becomes 0). This signifies the base case of a recursive function, where the recursion stops.
+
+* Processing the Call Stack (simulating recursion)
+  * `while len(call_stack) != 0`: This loop runs as long as the call_stack is not empty.
+  * `print("Popping {}` from call stack".format(call_stack.pop())) This line:
+    * `call_stack.pop()` removes the last element (dictionary) from the call_stack.
+    * print displays the popped dictionary and indicates it's being removed from the call stack.
+  * `print("Call Stack:",call_stack)` Prints the updated state of the call stack after popping.
+
+```text
 Call Stack: [{'input': 4}]             
 Call Stack: [{'input': 4}, {'input': 3}]         
 Call Stack: [{'input': 4}, {'input': 3}, {'input': 2}]     
@@ -132,14 +153,7 @@ Popping {'input': 3} from call stack
 Call Stack: [{'input': 4}]                                 
 Popping {'input': 4} from call stack              
 Call Stack: []
-'''
 ```
-
-* Building the Call Stack:
-  * `while value > 0`: This loop runs as long as value is greater than zero.
-  * `call_stack.append({"input":value})` Adds a dictionary to the call_stack list. This dictionary represents a function call with the input value.
-  * `print("Call Stack:",call_stack)` visualization of current state of the `call_stack`.
-  * `value -= 1` Decrements the value by one, preparing for the next iteration of the loop.
 
 ### Factorial n!
 
