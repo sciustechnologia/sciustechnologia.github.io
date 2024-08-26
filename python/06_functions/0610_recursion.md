@@ -4,23 +4,22 @@ layout: default
 ---
 
 ## recursive function
-> A function that calls itself.
+> Self-referential situation: a function that calls itself.
 > [realpython](https://realpython.com/python-recursion/#why-use-recursion)
-> Self-referential situation.
 
 ### A recursive function has:
 
-- Base Case 
+- a Base Case 
   - a condition that evaluates the current input to stop the recursion from continuing.
-- Recursive Step 
+- a Recursive Step 
   - one or more calls to the recursive function to bring the input closer to the base case.
 
 ### Why Use Recursion?
 
 - tree-like data structures (nested structures), fit a recursive definition
-- Recursive implementations often consume more memory than non-recursive ones.
+- Recursive implementations often **consume more memory** than non-recursive ones.
 - might result in slower execution time.
-- readability of the code will be the biggest determining factor
+- **readability** of the code will be the biggest determining factor
 
 When you call a function in Python, the interpreter creates a new local namespace so that names defined within that function don’t collide with identical names defined elsewhere. One function can call another, and even if they both define objects with the same name, it all works out fine because those objects exist in separate namespaces.
 
@@ -67,7 +66,9 @@ a function that calls itself recursively must have a plan to eventually stop:
 ...     else:
 ...         countdown(n - 1)   # Recursive call
 ...
+```
 
+```text
 >>> countdown(5)
 5
 4
@@ -76,6 +77,8 @@ a function that calls itself recursively must have a plan to eventually stop:
 1
 0
 ```
+
+> at the end I have a test running for this.
 
 * base case (when n is zero) and the recursive call.
 
@@ -276,3 +279,123 @@ lol = [1,2,[3,4,5], [6,[7,8,9],[]]]
 flatten(lol)
 [1,2,3,4,5,6,7,8,9]
 ```
+
+---
+
+### For testing
+
+Recursion I want to test.
+
+```python
+>>> def countdown(n):
+...     print(n)
+...     if n == 0:
+...         return             # Terminate recursion
+...     else:
+...         countdown(n - 1)   # Recursive call
+...
+```
+
+```text
+>>> countdown(5)
+5
+4
+3
+2
+1
+0
+```
+
+* Side Effects:
+  * countdown primarily uses print to display values.
+  * Testing frameworks typically assert on return values or specific conditions, making it hard to verify what's being printed.
+* Recursion:
+  * The recursive nature adds another layer of complexity.
+  * Assertions within the function itself wouldn't easily capture the entire output.
+
+```python
+import io
+import sys
+import unittest
+
+class TestCountdown(unittest.TestCase):
+    def test_countdown(self):
+        # Capture standard output
+        stdout_capture = io.StringIO()
+        sys.stdout = stdout_capture
+
+        # Call the function
+        countdown(3)
+
+        # Restore standard output
+        sys.stdout = sys.__stdout__
+
+        # Get the captured output and assert
+        output = stdout_capture.getvalue().strip()
+        expected_output = "3\n2\n1\n0"  # Expected output
+        self.assertEqual(output, expected_output)
+```
+
+### mocking the print function
+
+* gives you finer control over verifying the calls to print. If a function relies heavily on printing or other external effects, you'll need techniques to capture and assert on those actions.
+* It is possible to use mocking libraries like `unittest.mock` or `pytest.mock` to replace the print function with a custom function that records the calls:
+
+```python
+import unittest
+from unittest.mock import patch
+
+class TestCountdown(unittest.TestCase):
+    @patch('sys.stdout.write')
+    def test_countdown(self, mock_print):
+        # Call the function
+        countdown(3)
+
+        # Assert that print was called with the expected values
+        mock_print.assert_has_calls([
+            unittest.mock.call('3\n'),
+            unittest.mock.call('2\n'),
+            unittest.mock.call('1\n'),
+            unittest.mock.call('0\n')
+        ])
+```
+
+### Refactoring for Testability
+> design code with testability in mind: Instead of relying on print, modify countdown to return a list of numbers, making it easier to assert on the result
+> it is crucial to write tests that cover various scenarios (e.g., positive numbers, zero, potentially even negative numbers if your function allows it).
+
+```python
+def countdown(n):
+    result = []  # Collect the numbers in a list
+    result.append(n)  # Add current number
+    if n == 0:
+        return result  # Return the list
+    else:
+        return result + countdown(n - 1)  # Combine lists
+```
+
+* now use standard `assertEqual` assertions in the tests.
+
+```python
+  import unittest
+
+class TestCountdown(unittest.TestCase):
+
+    def test_countdown_positive(self):
+        expected_result = [3, 2, 1, 0]
+        actual_result = countdown(3)
+        self.assertEqual(actual_result, expected_result)
+
+    def test_countdown_zero(self):
+        expected_result = [0]
+        actual_result = countdown(0)
+        self.assertEqual(actual_result, expected_result)
+```
+
+* assertEqual Assertion:
+  * The core of each test method uses `self.assertEqual(actual_result, expected_result)`. This compares the output of your function (actual_result) to `expected_result`.
+ 
+
+### Test-Driven Development 
+
+
