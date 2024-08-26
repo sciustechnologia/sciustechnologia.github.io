@@ -437,3 +437,7 @@ def countdown(n):
     else:
         return result + countdown(n - 1)
 ```
+
+* Red-Green-Refactor: TDD follows a cycle of writing a test (Red), implementing code to make it pass (Green), and then refactoring to improve the code without breaking the tests (Refactor).
+* Small Steps: Write and pass tests incrementally, focusing on small, specific behaviors.
+* Design for Testability: TDD often encourages design code in ways that make it easier to test.
