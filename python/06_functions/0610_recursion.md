@@ -54,8 +54,7 @@ The interpreter limits the maximum number of times a function can call itself re
 2000
  ```
 
-a function that calls itself recursively must have a plan to eventually stop:
-- here are one or more base cases that are directly solvable without the need for further recursion.
+A function that calls itself recursively must have a plan to eventually stop:
 - Each recursive call moves the solution progressively closer to a base case.
 
 ```python
@@ -82,7 +81,7 @@ a function that calls itself recursively must have a plan to eventually stop:
 
 * base case (when n is zero) and the recursive call.
 
-Comparison
+in comparison
 
 ```python
 # recursive
@@ -109,6 +108,7 @@ def countdown(n):
 ```python
 def countdown(value):
   call_stack = []
+  # list will be used to simulate the call stack of a recursive function
   while value > 0 : 
     call_stack.append({"input":value})
     print("Call Stack:",call_stack)
@@ -134,6 +134,12 @@ Popping {'input': 4} from call stack
 Call Stack: []
 '''
 ```
+
+* Building the Call Stack:
+  * `while value > 0`: This loop runs as long as value is greater than zero.
+  * `call_stack.append({"input":value})` Adds a dictionary to the call_stack list. This dictionary represents a function call with the input value.
+  * `print("Call Stack:",call_stack)` visualization of current state of the `call_stack`.
+  * `value -= 1` Decrements the value by one, preparing for the next iteration of the loop.
 
 ### Factorial n!
 
