@@ -4,10 +4,14 @@ layout: default
 ---
 
 ## pytest
-> for testing individual components (unit testing) 
 > for verifying how different parts of your application work together (integration testing)
 
-* Using pytest is beneficial in various scenarios where automated testing is required.
+### pytest vs. unittest
+
+* unittest: Python's built-in testing framework; good for basic tests, but can get verbose for more complex scenarios.
+* pytest: more feature-rich testing framework; easier to use, offers more powerful features like fixtures and parametrization.
+* Start with unittest and as your projects grow or you need more advanced features, consider migrating to pytest.
+
 * features: 
   * Fixtures: Reusable setup and teardown code for tests.
   * Parametrization: Running the same test with different inputs.
@@ -224,9 +228,6 @@ def test_add():
     assert result == 3
 ```
 
-
-
-
 ### Example 4:  Test Function with pytest Fixtures
 
 *  pytest fixtures to set up any required state before the test runs.
@@ -246,9 +247,6 @@ def test_product(numbers):
     a, b, c = numbers
     assert a * b * c == 6
 ```
-
-
-
 
 ### Example 5: Parameterized Test Functions
 
