@@ -280,26 +280,6 @@ def is_palindrome(word):
     return word[0] == word[-1] and is_palindrome(word[1:-1])
 ```
 
-### Sort With Quicksort
-
-- [realpython](https://realpython.com/python-recursion/#why-use-recursion)
-
----
-
-```python
-def flatten(lol):
-    for item in lol:
-        if isinstance(item,list):
-            for subitem in flatten(item):
-                yield subitem
-        else:
-            yield item
-
-lol = [1,2,[3,4,5], [6,[7,8,9],[]]]
-flatten(lol)
-[1,2,3,4,5,6,7,8,9]
-```
-
 ---
 
 ### For testing
