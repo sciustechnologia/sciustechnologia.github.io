@@ -125,9 +125,9 @@ description: QA testing and technical writing
 
 ***
 
-Testing AA/VR/MR
+Testing AR/VR/MR
 
-- [VR/AR/MR framework and application testing](./testing/xr_01.html)
+- [Framework and application testing](./testing/xr_01.html)
 - [Performance, stress, usability testing](./testing/xr_02.html)
 - [Test coverage and test process/methods](./testing/xr_03.html)
 - [Examples to use Python](./testing/xr_04.html)
