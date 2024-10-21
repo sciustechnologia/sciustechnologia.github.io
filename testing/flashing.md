@@ -1,8 +1,33 @@
+## Flashing 
+> installing from your computer files (APK, SDK and so on) onto DUT
+APK: The final product that users install on their Android devices ( tools and blueprints).
+SDK: The tools and resources that developers use to build the APK (complete, functional structure ).
+
+### APK (Android Package Kit)
+> contains all the code, resources (images, sounds, etc.), and data needed to run the app on an Android device.
+> Analogy: executable file for Windows or macOS.
+> Usage: When you download and install an app from the Google Play Store, you're essentially downloading and installing an APK file.
+
+Key Characteristics
+* Standalone: An APK file is self-contained, containing everything needed to run the app.
+* Executable: It's a file that can be executed on an Android device to install the app.
+
+### SDK (Software Development Kit):
+> set of tools, libraries, documentation, and sample code that developers use to create Android apps.
+> Analogy: toolbox for building a house. It provides the tools, instructions, and materials necessary to construct the application.
+> Usage: Developers use the Android SDK to write code, design the UI, test their apps, and ultimately create APK files to distribute.
+
+Key Characteristics:
+Development Tools: It includes tools like the Android Studio IDE, compilers, emulators, and debuggers.
+Libraries: It contains pre-written code (libraries) that developers can use to perform common tasks.
+Documentation: The SDK includes comprehensive documentation to help developers understand how to use its tools and libraries.
+Sample Code: It offers sample code to illustrate how to implement various functionalities.
+
+> You flash the DUT from your laptop via terminal with ADB.
 
 ## ADB (Android Debug Bridge) 
 
-> is a powerful command-line tool that lets you communicate with and control Android devices from your computer. 
-> Essential for developers, but also handy for anyone who wants more control over their Android device.
+> command-line tool to communicate with and control Android devices from your computer. 
 
 * Enable USB Debugging: To use most ADB commands, you must enable USB debugging on your Android device.
 * Permissions: You may need to grant permissions to ADB (e.g., to access the device's storage).
@@ -34,34 +59,6 @@ aae toolbox config experimental enable
 aae device screen
 ```
 
-### connect to device via wifi
-
-once you have installed the RC or any other apk, you might want to conduct a few test cases without being connected to the computer. 
-So you connect with the device via wifi. 
-
-```
-# Connect your Android device and adb host computer to a common Wi-Fi network.
-adb devices
-adb tcpip 5555
-
-# to obtain the phone's IP address
-adb shell ip addr show wlan0
-# or
-adb shell "ip addr show wlan0 | grep -e wlan0$ | cut -d\" \" -f 6 | cut -d/ -f 1" 
-# copy IP address after the "inet" until the "/".
-
-adb <ip-address-of-device>:5555
-adb connect <ip-address-of-device>:5555
-
-adb devices
-# List of devices attached
-device_ip_address:5555 device
-
-# now view logcat output by running
-adb logcat
-```
-
-=> note to self: double check this
 
 ### Software Installation
 > Install apps from your computer (outside the Play Store).
