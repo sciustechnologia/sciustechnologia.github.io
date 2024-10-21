@@ -128,6 +128,7 @@ description: QA testing and technical writing
 - [Framework/application testing](./testing/xr_01.html)
 - [Performance and stress testing](./testing/xr_02.html)
 - [Test coverage and test process/methods](./testing/xr_03.html)
+- [ADB](./testing/xr_adb.html)
 - [Automation using Python](./testing/xr_04.html)
   
 ***
