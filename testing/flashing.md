@@ -33,6 +33,27 @@ Sample Code: It offers sample code to illustrate how to implement various functi
 * Permissions: You may need to grant permissions to ADB (e.g., to access the device's storage).
 * Platform Tools: You need to install the Android SDK Platform Tools to use ADB. Download it from the official Android Developer [website]().
 
+### Software Installation
+> Install apps from your computer (outside the Play Store).
+
+* 1. Connect your Android device to your computer with USB debugging enabled.
+* 2. Open a terminal window.
+* 3. Ensure that device is connected by checking in the terminal if it is recognized.
+
+```bash
+adb devices
+# and press Enter.
+# or 
+aae toolbox
+```
+
+* 4. Find the path to the .apk file of the app you want to install (you can Use finder to get there and then open the folder in terminal).
+* 5. Type adb install <path/to/app.apk> and press Enter like so
+
+```bash
+adb install -r -d autoembedded.carassistant.arm64-v8a.blablabla_RC00.apk
+```
+
 ### Debugging App Issues - logcat
 > Identify and troubleshoot problems on your Android device.
 
@@ -57,28 +78,6 @@ adb bugreport
 ```bash
 aae toolbox config experimental enable
 aae device screen
-```
-
-
-### Software Installation
-> Install apps from your computer (outside the Play Store).
-
-* 1. Connect your Android device to your computer with USB debugging enabled.
-* 2. Open a terminal window.
-* 3. Ensure that device is connected by checking in the terminal if it is recognized.
-
-```bash
-adb devices
-# and press Enter.
-# or 
-aae toolbox
-```
-
-* 4. Find the path to the .apk file of the app you want to install (you can Use finder to get there and then open the folder in terminal).
-* 5. Type adb install <path/to/app.apk> and press Enter like so
-
-```bash
-adb install -r -d autoembedded.carassistant.arm64-v8a.blablabla_RC00.apk
 ```
 
 ### File Transfer
