@@ -109,7 +109,7 @@ description: QA testing and technical writing
 
 ---
 
-### [Bluetooth testing](./testing/bt.html)
+### Bluetooth [testing](./testing/bt.html)
 - [Bluetooth testing profiles](./testing/bt_profiles.html)
 - [BT test senario: Classic Bluetooth - continuous data streaming](./testing/bt_scenario_ClassicBluetooth.html)
 - [BT test senario: BLE - Data exchange](./testing/bt_scenario_BLE.html)
