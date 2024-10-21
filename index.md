@@ -103,13 +103,13 @@ description: QA testing and technical writing
 
 ---
 
-  ### Multimeters 
+### Multimeters 
 - to measure multiple parameters of an electric circuit like voltage, current, and resistance (voltmeter, ohmmeter, and ammeter).
 - additional properties such as temperature and capacitance.
 
 ---
 
-## Testings
+### Testings
 - [Bluetooth testing](./testing/bt.html)
 - [Bluetooth testing profiles](./testing/bt_profiles.html)
 - [BT test senario: Classic Bluetooth - continuous data streaming](./testing/bt_scenario_ClassicBluetooth.html)
@@ -125,8 +125,7 @@ description: QA testing and technical writing
 
 ***
 
-Testing AR/VR/MR
-
+### Testing AR/VR/MR
 - [Framework and application testing](./testing/xr_01.html)
 - [Performance, stress, usability testing](./testing/xr_02.html)
 - [Test coverage and test process/methods](./testing/xr_03.html)
@@ -135,7 +134,7 @@ Testing AR/VR/MR
 ***
 
 In the works:
-Testing AI
+### Testing AI
 
 ***
 
