@@ -171,9 +171,9 @@ In the works:
 ## Statistical Analysis
 > using python, numpy, pandas, prettytable and Matplotlib.
 
-- [Price and range of EVs in US and Germany](./databasics/ev.html)
-- [Happiness of the world - Cleaning data](./databasics/happy.html)
-- [My car's gas consumption - Cleaning data](./databasics/bb.html)
+- [Price and range of EVs in US and Germany](./databasix/ev.html)
+- [Happiness of the world - Cleaning data](./databasix/happy.html)
+- [My car's gas consumption - Cleaning data](./databasix/bb.html)
     
 ***
 
