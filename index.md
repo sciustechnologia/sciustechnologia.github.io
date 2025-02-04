@@ -144,20 +144,10 @@ description: QA testing and technical writing
 
 - [Audio testing](./testing/audio.html)
 
----
-
-## Statistical Analysis
-> using python, numpy, pandas, prettytable and Matplotlib.
-
-- [Price and range of EVs in US and Germany](./databasics/ev.html)
-- [Happiness of the world - Cleaning data](./databasics/happy.html)
-- [My car's gas consumption - Cleaning data](./databasics/bb.html)
-  
 ***
 
 In the works:
 ### Testing AI
-
 
 ***
 
@@ -177,7 +167,14 @@ In the works:
 - [Notes about numpy](./data/10_01.html)
 - [Notes about pandas](./data/10_03.html)
 - [Notes about Matplotlib](./data/10_02.html)
-  
+
+## Statistical Analysis
+> using python, numpy, pandas, prettytable and Matplotlib.
+
+- [Price and range of EVs in US and Germany](./databasics/ev.html)
+- [Happiness of the world - Cleaning data](./databasics/happy.html)
+- [My car's gas consumption - Cleaning data](./databasics/bb.html)
+    
 ***
 
 | Handbook                             | status                |
