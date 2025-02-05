@@ -1,30 +1,3 @@
-## Flashing 
-> installing from your computer files (APK, SDK and so on) onto DUT
-APK: The final product that users install on their Android devices ( tools and blueprints).
-SDK: The tools and resources that developers use to build the APK (complete, functional structure ).
-
-### APK (Android Package Kit)
-> contains all the code, resources (images, sounds, etc.), and data needed to run the app on an Android device.
-> Analogy: executable file for Windows or macOS.
-> Usage: When you download and install an app from the Google Play Store, you're essentially downloading and installing an APK file.
-
-Key Characteristics
-* Standalone: An APK file is self-contained, containing everything needed to run the app.
-* Executable: It's a file that can be executed on an Android device to install the app.
-
-### SDK (Software Development Kit):
-> set of tools, libraries, documentation, and sample code that developers use to create Android apps.
-> Analogy: toolbox for building a house. It provides the tools, instructions, and materials necessary to construct the application.
-> Usage: Developers use the Android SDK to write code, design the UI, test their apps, and ultimately create APK files to distribute.
-
-Key Characteristics:
-Development Tools: It includes tools like the Android Studio IDE, compilers, emulators, and debuggers.
-Libraries: It contains pre-written code (libraries) that developers can use to perform common tasks.
-Documentation: The SDK includes comprehensive documentation to help developers understand how to use its tools and libraries.
-Sample Code: It offers sample code to illustrate how to implement various functionalities.
-
-> You flash the DUT from your laptop via terminal with ADB.
-
 ## ADB (Android Debug Bridge) 
 
 > command-line tool to communicate with and control Android devices from your computer. 
@@ -53,6 +26,33 @@ aae toolbox
 ```bash
 adb install -r -d autoembedded.carassistant.arm64-v8a.blablabla_RC00.apk
 ```
+
+### Flashing 
+> Installing from your computer files (APK, SDK and so on) onto DUT.
+
+### APK (Android Package Kit)
+> The final product **users** install on their Android devices (tools and blueprints).
+> contains all the code, resources (images, sounds, etc.), and data needed to run the app on an Android device.
+> Analogy: executable file for Windows or macOS.
+> Usage: When you download and install an app from the Google Play Store, you're essentially downloading and installing an APK file.
+
+Key Characteristics
+* Standalone: An APK file is self-contained, containing everything needed to run the app.
+* Executable: It's a file that can be executed on an Android device to install the app.
+
+### SDK (Software Development Kit):
+> The tools and resources **developers** use to build the APK (complete, functional structure ).
+> set of tools, libraries, documentation, and sample code that developers use to create Android apps.
+> Analogy: toolbox for building a house. It provides the tools, instructions, and materials necessary to construct the application.
+> Usage: Developers use the Android SDK to write code, design the UI, test their apps, and ultimately create APK files to distribute.
+
+Key Characteristics:
+Development Tools: It includes tools like the Android Studio IDE, compilers, emulators, and debuggers.
+Libraries: It contains pre-written code (libraries) that developers can use to perform common tasks.
+Documentation: The SDK includes comprehensive documentation to help developers understand how to use its tools and libraries.
+Sample Code: It offers sample code to illustrate how to implement various functionalities.
+
+> You flash the DUT from your laptop via terminal with ADB.
 
 ### Debugging App Issues - logcat
 > Identify and troubleshoot problems on your Android device.
