@@ -31,7 +31,7 @@ Sample Code: It offers sample code to illustrate how to implement various functi
 
 * Enable USB Debugging: To use most ADB commands, you must enable USB debugging on your Android device.
 * Permissions: You may need to grant permissions to ADB (e.g., to access the device's storage).
-* Platform Tools: You need to install the Android SDK Platform Tools to use ADB. Download it from the official Android Developer [website]().
+* Platform Tools: You need to install the Android SDK Platform Tools to use ADB. Download it from the official [Android Developer page](https://developer.android.com/tools/releases/platform-tools).
 
 ### Software Installation
 > Install apps from your computer (outside the Play Store).
