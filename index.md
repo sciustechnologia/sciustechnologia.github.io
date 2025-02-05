@@ -128,14 +128,11 @@ description: QA testing and technical writing
 ---
 
 ## Testing Power
->  in the works:
-
-- [Power testing](./testing/pwr.html)
-- [Battery chemistry](./testing/batterychemistry.html)
-
-### Multimeters 
-- to measure multiple parameters of an electric circuit like voltage, current, and resistance (voltmeter, ohmmeter, and ammeter).
-- additional properties such as temperature and capacitance.
+> power
+  - [Battery chemistry](./testing/batterychemistry.html)
+  - [hardware]()
+-  power testing
+  - [Power testing](./testing/pwr.html)
 
 ---
 
