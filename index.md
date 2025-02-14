@@ -11,7 +11,7 @@ description: QA testing and technical writing
 *  AR/VR/MR,
 *  Pixel 5G power performance [21-36]
 *  Google Assistant [4-20]
-*  Bluetooth, and
+*  Bluetooth (based on Google Assistant, Infotainment system, IoT), and
 *  ADB.
 
 ### Bluetooth [testing](./testing/bt.html)
