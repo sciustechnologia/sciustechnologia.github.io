@@ -5,9 +5,13 @@ description: QA testing and technical writing
 ---
 
 > a QA Engineer’s work experience. 
-> discussing the devices and software they tested. 
-> testing of AR/VR/MR, Bluetooth, and ADB.
-> testing of Google Assistant [4-20], Pixel 5G power performance [21-36].
+> discussing the devices and software tested. 
+> Testing of
+*  AR/VR/MR,
+*  Pixel 5G power performance [21-36]
+*  Google Assistant [4-20]
+*  Bluetooth, and
+*  ADB.
 
 ### Bluetooth [testing](./testing/bt.html)
 - [Bluetooth testing profiles](./testing/bt_profiles.html)
