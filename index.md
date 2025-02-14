@@ -6,7 +6,8 @@ description: QA testing and technical writing
 
 > a QA Engineer’s work experience. 
 > discussing the devices and software tested. 
-> Testing of
+
+
 *  AR/VR/MR,
 *  Pixel 5G power performance [21-36]
 *  Google Assistant [4-20]
