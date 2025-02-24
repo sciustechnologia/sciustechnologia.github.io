@@ -59,7 +59,12 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 3. Check signal strength (RSSI)
 4. Send/receive data
 5. Store results
-   
+
+#### Shopping list: 
+* find a good dashboard setup for real-time Bluetooth monitoring
+* find  Bluetooth Adapters, IoT & Wearables to test
+* research energy in RaspberryPi5 cluster solutions
+
 ---
 
 ### Testing AR/VR/MR
