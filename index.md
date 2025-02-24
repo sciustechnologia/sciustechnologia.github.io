@@ -35,7 +35,17 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 * **Multi-Device Performance Testing** – Measure how multiple Bluetooth connections impact performance.
 * **Bluetooth Security Testing** – Test for vulnerabilities like weak pairing, or unauthorized data access (no experience in security testing so far).
 * **IoT & Wearable Compatibility Testing** – Ensure proper connectivity and low-latency data exchange with devices like smartwatches, fitness trackers, or IoT sensors. (I like to utilize past experience in Fitbit and want to expand).
-  
+
+#### Basic idea of the Architecture
+* Controller Node – Manages test execution, collects logs, and analyzes results.
+* Test Nodes – Run Bluetooth tests, interact with target devices, and send results to the controller.
+
+Node	Role	      Tools Installed
+Pi 1	Controller	Ansible, Grafana, Logstash
+Pi 2	Test Node	  PyBluez, hcitool, btmon
+Pi 3	Test Node	  PyBluez, hcitool, Ubertooth
+Pi 4	Test Node	  PyBluez, hcitool, nRF Sniffer
+
 ---
 
 ### Testing AR/VR/MR
