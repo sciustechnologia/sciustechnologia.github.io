@@ -137,7 +137,7 @@ In the works:
 
 > my experience in testing and technical writing.
 
-## Some of the devices and software I tested as a QA Engineer:
+## Some of the devices I tested as a QA Engineer:
 
 ### 1 Google Assistant (e2e) testing
 
