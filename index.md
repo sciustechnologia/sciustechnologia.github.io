@@ -94,6 +94,7 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 
 In the works:
 ### Testing AI
+* testing a generator - I will probably leave that for the end.
 
 ***
 
