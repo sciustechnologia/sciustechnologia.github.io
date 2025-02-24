@@ -27,6 +27,15 @@ description: QA testing and technical writing
 - [Bluetooth bugs](./testing/bt_protocolerrors.html)
 - [Bluetooth logs](./testing/bt_logs.html)
 
+Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster** that allows for **automated testing, multi-device compatibility, and signal analysis**.
+
+#### **Use Cases:**
+
+* **Automated Bluetooth Device Testing** – Using scripts to automate pairing, unpairing, signal strength tests, and data transfer analysis.
+* **Multi-Device Performance Testing** – Measure how multiple Bluetooth connections impact performance.
+* **Bluetooth Security Testing** – Test for vulnerabilities like weak pairing, or unauthorized data access (no experience in security testing so far).
+* **IoT & Wearable Compatibility Testing** – Ensure proper connectivity and low-latency data exchange with devices like smartwatches, fitness trackers, or IoT sensors. (I like to utilize past experience in Fitbit and want to expand).
+  
 ---
 
 ### Testing AR/VR/MR
