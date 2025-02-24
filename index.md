@@ -129,6 +129,8 @@ In the works:
 | [Link to Selenium_Java page]     | Done |
 | [Link to Selenium_Python page]   | Done |
 
+> done mostly web-automation.
+> I am familiar with Appium but didn't pursuit it. If Ai will take over will this be even of interest in the future?
 
 * <a href="https://knowledgebase4testers.github.io/" target="_blank" rel="noopener noreferrer">My Glossary</a> 
 * <a href="https://trumpfheller.github.io/" target="_blank" rel="noopener noreferrer">My QA Playbook</a> 
