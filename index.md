@@ -53,6 +53,13 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 * **Wireshark with Bluetooth Plugins** – Sniff and analyze Bluetooth traffic.
 * **BLE Sniffers** – for deeper BLE analysis (need to do research on Nordic Semiconductor nRF Sniffer). 
 
+#### Basic Playbook
+1. Scan for devices
+2. Pair with devices
+3. Check signal strength (RSSI)
+4. Send/receive data
+5. Store results
+   
 ---
 
 ### Testing AR/VR/MR
