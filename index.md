@@ -78,11 +78,10 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 ---
 
 ## Testing Power
-> power
+> once my home lab is ready, I will give this a try as well.
   - [Battery chemistry](./testing/batterychemistry.html)
   - [hardware]()
--  power testing
-  - [Power testing](./testing/pwr.html)
+- [Power testing](./testing/pwr.html)
 
 ---
 
