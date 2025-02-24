@@ -38,13 +38,15 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 
 #### Basic idea of the Architecture
 * Controller Node – Manages test execution, collects logs, and analyzes results.
-* Test Nodes – Run Bluetooth tests, interact with target devices, and send results to the controller.
+* Test Nodes – Run Bluetooth tests, interact with target devices, and send results to the controller. 
 
-Node	Role	      Tools Installed
-Pi 1	Controller	Ansible, Grafana, Logstash
-Pi 2	Test Node	  PyBluez, hcitool, btmon
-Pi 3	Test Node	  PyBluez, hcitool, Ubertooth
-Pi 4	Test Node	  PyBluez, hcitool, nRF Sniffer
+| Node              | Role | Tools Installed |
+| :---------------- | :------: | ----: |
+| Pi 1 |   Controller   | Ansible, Grafana, Logstash |
+| Pi 2 |   Test Node   | PyBluez, hcitool, btmon |
+| Pi 3    |  Test Node   | PyBluez, hcitool, Ubertooth |
+| Pi 4  |  Test Node   | PyBluez, hcitool, nRF Sniffer |
+
 
 ---
 
