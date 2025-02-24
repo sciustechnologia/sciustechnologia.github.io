@@ -57,7 +57,7 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 ---
 
 ## Testing Audio
->  in the works:
+>  once my home lab is ready, I will give this a try as well.
 
 - [Audio testing](./testing/audio.html)
 
