@@ -46,11 +46,12 @@ Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster*
 | Pi 3    |  Test Node   | PyBluez, hcitool, Ubertooth |
 | Pi 4  |  Test Node   | PyBluez, hcitool, nRF Sniffer |
 
-* **BlueZ** – The official Linux Bluetooth stack for scanning, pairing, and debugging.
+* **Ansible** to deploy scripts across all Raspberry Pi nodes.
+* **BlueZ** – Linux Bluetooth stack for scanning, pairing, and debugging.
 * **hcitool & hcidump** – For low-level Bluetooth device scanning and debugging.
 * **btmon** – A monitoring tool to capture Bluetooth events.
 * **Wireshark with Bluetooth Plugins** – Sniff and analyze Bluetooth traffic.
-* **BLE Sniffers** – Like the Nordic Semiconductor nRF Sniffer for deeper BLE analysis.
+* **BLE Sniffers** – for deeper BLE analysis (need to do research on Nordic Semiconductor nRF Sniffer). 
 
 ---
 
