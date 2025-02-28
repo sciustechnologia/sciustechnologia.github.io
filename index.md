@@ -30,7 +30,7 @@ description: QA testing and technical writing
 ### Bluetooth testing lab
 > Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster** that allows for **automated testing, multi-device compatibility, and signal analysis**.
 
-#### **General Use Cases**
+#### General Use Cases
 
 * **Automated Bluetooth Device Testing** – Using scripts to automate pairing, unpairing, signal strength tests, and data transfer analysis.
 * **Multi-Device Performance Testing** – Measure how multiple Bluetooth connections impact performance.
