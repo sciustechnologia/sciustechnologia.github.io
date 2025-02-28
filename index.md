@@ -28,7 +28,7 @@ description: QA testing and technical writing
 - [Bluetooth logs](./testing/bt_logs.html)
 
 ### Bluetooth testing lab
-> Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster** that allows for **automated testing, multi-device compatibility, and signal analysis**.
+> Using my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster** that allows for **automated testing, multi-device compatibility, and signal analysis**.
 
 #### General Use Cases
 
@@ -65,7 +65,7 @@ description: QA testing and technical writing
 * find a good dashboard setup for real-time Bluetooth monitoring
 * find  Bluetooth Adapters (need to know if different chipsets give different results), IoT & Wearables to test
 * research energy in RaspberryPi5 cluster solutions
-* visualize test results (do I docker this?)
+* visualize test results 
 
 ---
 
