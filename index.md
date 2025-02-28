@@ -27,7 +27,8 @@ description: QA testing and technical writing
 - [Bluetooth bugs](./testing/bt_protocolerrors.html)
 - [Bluetooth logs](./testing/bt_logs.html)
 
-Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster** that allows for **automated testing, multi-device compatibility, and signal analysis**.
+### Bluetooth testing lab*
+>Currently building my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster** that allows for **automated testing, multi-device compatibility, and signal analysis**.
 
 #### **General Use Cases**
 
