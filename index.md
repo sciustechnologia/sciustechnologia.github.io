@@ -80,9 +80,9 @@ description: QA testing and technical writing
 
 ## Testing Power
 > once my home lab is ready, I will give this a try as well.
-  - [Battery chemistry](./testing/batterychemistry.html)
-  - [hardware]()
-- [Power testing](./testing/pwr.html)
+  - [Battery chemistry](./power/batterychemistry.html)
+  - [hardware](./power/hardware.html)
+- [Power testing](./power/pwr.html)
 
 ---
 
