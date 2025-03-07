@@ -91,6 +91,7 @@ description: QA testing and technical writing
 
 - [Audio testing](./audio/audio.html)
 
+### chip-level [audio testing](./audio/chip-level_audio_testing.html)
 - [I2S_SPI_I2C](./audio/I2S_SPI_I2C.html)
 
 ***
