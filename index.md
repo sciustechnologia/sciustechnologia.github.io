@@ -89,13 +89,15 @@ description: QA testing and technical writing
 ## Testing Audio
 >  once my home lab is ready, I will give this a try as well.
 
-- [Audio testing](./testing/audio.html)
+- [Audio testing](./audio/audio.html)
+
+- [I2S_SPI_I2C](./audio/I2S_SPI_I2C.html)
 
 ***
 
 In the works:
 ### Testing AI
-* testing a generator - I will probably leave that for the end.
+* testing a generator - I will leave that for the end.
 
 ***
 
