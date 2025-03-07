@@ -35,9 +35,6 @@ Characterize process variations:
 Ensure reliability: 
 * Verify that the chip can withstand stress conditions (temperature, voltage, humidity) and maintain its performance over its intended lifespan.
 
-Debug design: 
-* Identify and fix design errors early in the development process.
-
 ### 2. Test Environment:
 
 Automated Test Equipment (ATE): 
