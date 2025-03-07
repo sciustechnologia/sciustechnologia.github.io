@@ -29,9 +29,6 @@ Identify defects:
 * design flaws, or
 * process variations that could affect audio performance.
 
-Characterize process variations: 
-* Understand how the chip's performance varies across different manufacturing lots, temperatures, and supply voltages. This data is used to set production test limits.
-
 Ensure reliability: 
 * Verify that the chip can withstand stress conditions (temperature, voltage, humidity) and maintain its performance over its intended lifespan.
 
