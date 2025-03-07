@@ -87,12 +87,12 @@ description: QA testing and technical writing
 ---
 
 ## Testing Audio
->  once my home lab is ready, I will give this a try as well.
-
 - [Audio testing](./audio/audio.html)
 
-### chip-level [audio testing](./audio/chip-level_audio_testing.html)
+### [Chip-level audio testing](./audio/chip-level_audio_testing.html)
 - [I2S_SPI_I2C](./audio/I2S_SPI_I2C.html)
+
+>  once my home lab is ready, I will give this a try as well.
 
 ***
 
