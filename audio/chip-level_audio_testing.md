@@ -39,12 +39,19 @@ Debug design:
 
 ### 2. Test Environment:
 
-Automated Test Equipment (ATE): Specialized, high-precision test equipment designed for automated chip testing. ATE systems provide precise voltage sources, current meters, waveform generators, analyzers, and digital I/O. Crucially, they're programmable to run a suite of tests automatically.
+Automated Test Equipment (ATE): 
+* Specialized test equipment designed for automated chip testing. 
+* provide precise voltage sources, current meters, waveform generators, analyzers, and digital I/O. 
+* programmable to run a suite of tests automatically.
 
-Probe Card: A custom-designed printed circuit board (PCB) with fine needles (probes) that make temporary electrical contact with the IC's pads (bond pads) directly on the silicon wafer or packaged chip.
+Probe Card: 
+* A custom-designed printed circuit board (PCB) with fine needles (probes) that make temporary electrical contact with the IC's pads (bond pads) directly on the silicon wafer or packaged chip.
 
-Load Board: A PCB that provides the necessary circuitry for connecting the ATE to the device under test (DUT). It may include filters, amplifiers, level shifters, and other components to optimize the test setup.
+Load Board: 
+* A PCB that provides the circuitry for connecting the ATE to the DUT (may include filters, amplifiers, level shifters, and other components to optimize the test setup).
 
-Shielding: Critical to minimize noise and interference in sensitive audio measurements. Test setups often use shielded enclosures, cables, and connectors.
+Shielding: 
+* Critical to minimize noise and interference in sensitive audio measurements. 
 
-Temperature Control: ATE systems often have temperature chambers to control the temperature of the DUT, allowing testing over a wide temperature range.
+Temperature Control: 
+* ATE systems often have temperature chambers to control the temperature of the DUT.
