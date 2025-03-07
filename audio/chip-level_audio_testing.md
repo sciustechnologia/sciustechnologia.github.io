@@ -12,10 +12,10 @@
 Verify functionality: 
 *  Ensure that all audio blocks (ADC, DAC, amplifiers, filters, DSP cores, etc.) operate as intended according to the design specifications.
 
-Measure performance parameters(characterize the chip’s audio performance): 
-  * Signal-to-Noise Ratio (SNR) Meaning: the audio I want to hear (the signal) compared to how much unwanted background sound (the noise) is present. 
-  * Total Harmonic Distortion + Noise (THD+N)
-  * Dynamic Range (DR)
+Performance parameters (measure the chip’s audio performance): 
+* Signal-to-Noise Ratio (SNR) Meaning: the audio I want to hear (the signal) compared to how much unwanted background sound (the noise) is present. 
+* Total Harmonic Distortion + Noise (THD+N)
+* Dynamic Range (DR)
   * Frequency Response
   * Intermodulation Distortion (IMD)
   * Channel separation (Crosstalk)
