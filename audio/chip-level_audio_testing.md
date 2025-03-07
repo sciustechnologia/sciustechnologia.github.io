@@ -16,16 +16,18 @@ Performance parameters (measure the chip’s audio performance):
 * Signal-to-Noise Ratio (SNR) Meaning: the audio I want to hear (the signal) compared to how much unwanted background sound (the noise) is present. 
 * Total Harmonic Distortion + Noise (THD+N)
 * Dynamic Range (DR)
-  * Frequency Response
-  * Intermodulation Distortion (IMD)
-  * Channel separation (Crosstalk)
-  * Gain accuracy and linearity
-  * Input and output impedance
-  * Power consumption
-  * Stability (avoiding oscillations)
+* Frequency Response
+* Intermodulation Distortion (IMD)
+* Channel separation (Crosstalk)
+* Gain accuracy and linearity
+* Input and output impedance
+* Power consumption
+* Stability (avoiding oscillations)
 
 Identify defects: 
-* Detect any manufacturing defects, design flaws, or process variations that could affect audio performance.
+* manufacturing defects,
+* design flaws, or
+* process variations that could affect audio performance.
 
 Characterize process variations: 
 * Understand how the chip's performance varies across different manufacturing lots, temperatures, and supply voltages. This data is used to set production test limits.
