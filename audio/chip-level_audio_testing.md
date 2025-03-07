@@ -12,8 +12,7 @@
 Verify functionality: 
 *  Ensure that all audio blocks (ADC, DAC, amplifiers, filters, DSP cores, etc.) operate as intended according to the design specifications.
 
-Measure performance parameters: 
-*  Thoroughly characterize the chip's audio performance, including:
+Measure performance parameters(characterize the chip’s audio performance): 
   * Signal-to-Noise Ratio (SNR)
   * Total Harmonic Distortion + Noise (THD+N)
   * Dynamic Range (DR)
