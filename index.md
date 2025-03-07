@@ -94,6 +94,7 @@ description: QA testing and technical writing
 - [SoX & install](./audio/audio_sox.html)
 - [SoX & Cmds](./audio/audio_SoX_cmds.html)
 - [TCL](./audio/audio_tcl.html)
+- [venv](./audio/venv.html)
 
 >  once my home lab is ready, I will give this a try as well.
 
