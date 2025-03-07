@@ -93,6 +93,7 @@ description: QA testing and technical writing
 - [I2S_SPI_I2C](./audio/buses_I2S_SPI_I2C.html)
 - [SoX & install](./audio/audio_sox.html)
 - [SoX & Cmds](./audio/audio_SoX_cmds.html)
+- [TCL](./audio/audio_tcl.html)
 
 >  once my home lab is ready, I will give this a try as well.
 
