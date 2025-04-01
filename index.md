@@ -242,3 +242,7 @@ In the works:
 - CPU Usage by App
 - Mobile Radio Activity per app
 - App Wakeup Alarms
+
+---
+
+> * [interview](./interview/01.html)
