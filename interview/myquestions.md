@@ -1,6 +1,6 @@
 ### Questions to ask the Interviewer
 
-> What do you need from me today to get the job?
+> What do you need from me today to give me the job?
 
 ---
 
