@@ -43,7 +43,7 @@ description: QA testing and technical writing
 - [TCL](./audio/audio_tcl.html)
 - [venv](./audio/venv.html)
 
->  once my home lab is ready, I will give this a try as well.
+>  might be worth to create my own testing lab for this; I am still non-conclusive on this.
 
 ***
 
