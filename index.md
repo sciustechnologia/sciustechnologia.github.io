@@ -4,68 +4,15 @@ title: My Work experience
 description: QA testing and technical writing
 ---
 
-> a QA Engineer’s work experience. 
-> discussing the devices and software tested. 
+## my work experience as QA Engineer. 
 
+> discussing the devices and software tested. 
 
 *  AR/VR/MR,
 *  Pixel 5G power performance [21-36]
 *  Google Assistant [4-20]
 *  Bluetooth (on Google Assistant, Infotainment system, IoT), and
 *  ADB.
-
-### Bluetooth [testing](./testing/bt.html)
-- [Bluetooth testing profiles](./testing/bt_profiles.html)
-- [BT test scenario: Classic Bluetooth - continuous data streaming](./testing/bt_scenario_ClassicBluetooth.html)
-- [BT test scenario: BLE - Data exchange](./testing/bt_scenario_BLE.html)
-- [BT test scenario: Bluetooth Mesh - for nodes and messaging](./testing/bt_scenario_mesh.html)
-- [BT test scenario: Bluetooth 4.x](./testing/bt_scenario_Bluetooth4.html)
-- [BT test scenario: Bluetooth audio](./testing/bt_scenario_audio.html)
-- [Bluetooth testing tools](./testing/btt.html)
-- [Bluetooth testing tools Sniffer](./testing/btt_sniffers.html)
-- [Bluetooth testing tools Picolo](./testing/btt_picolo.html)
-- [Bluetooth bugs](./testing/bt_protocolerrors.html)
-- [Bluetooth logs](./testing/bt_logs.html)
-
-### Bluetooth testing lab
-> Using my **Bluetooth testing lab** with a **Raspberry Pi 5 Cluster** that allows for **automated testing, multi-device compatibility, and signal analysis**.
-
-#### General Use Cases
-
-* **Automated Bluetooth Device Testing** – Using scripts to automate pairing, unpairing, signal strength tests, and data transfer analysis.
-* **Multi-Device Performance Testing** – Measure how multiple Bluetooth connections impact performance.
-* **IoT & Wearable Compatibility Testing** – Ensure proper connectivity and low-latency data exchange with devices like smartwatches, fitness trackers, or IoT sensors. (I like to utilize past experience in Fitbit and want to expand).
-
-#### Basic idea of the Architecture
-* Controller Node – Manages test execution, collects logs, and analyzes results.
-* Test Nodes – Run Bluetooth tests, interact with target devices, and send results to the controller. 
-
-| Node              | Role | Tools Installed |
-| :---------------- | :------: | ----: |
-| Pi 1 |   Controller   | Ansible, Grafana, Logstash |
-| Pi 2 |   Test Node   | PyBluez, hcitool, btmon |
-| Pi 3    |  Test Node   | PyBluez, hcitool, Ubertooth |
-| Pi 4  |  Test Node   | PyBluez, hcitool, nRF Sniffer |
-
-* **Ansible** to deploy scripts across all Raspberry Pi nodes.
-* **BlueZ** – Linux Bluetooth stack for scanning, pairing, and debugging.
-* **hcitool & hcidump** – For low-level Bluetooth device scanning and debugging.
-* **btmon** – A monitoring tool to capture Bluetooth events.
-* **Wireshark with Bluetooth Plugins** – Sniff and analyze Bluetooth traffic.
-* **BLE Sniffers** – for deeper BLE analysis (need to do research on Nordic Semiconductor nRF Sniffer). 
-
-#### Basic Playbook
-1. Scan for devices
-2. Pair with devices
-3. Check signal strength (RSSI)
-4. Send/receive data
-5. Store results
-
-#### Shopping list: 
-* find a good dashboard setup for real-time Bluetooth monitoring
-* find  Bluetooth Adapters (need to know if different chipsets give different results), IoT & Wearables to test
-* research energy in RaspberryPi5 cluster solutions
-* visualize test results 
 
 ---
 
@@ -98,6 +45,21 @@ description: QA testing and technical writing
 
 >  once my home lab is ready, I will give this a try as well.
 
+***
+
+### Bluetooth [testing](./testing/bt.html)
+- [Bluetooth testing profiles](./testing/bt_profiles.html)
+- [BT test scenario: Classic Bluetooth - continuous data streaming](./testing/bt_scenario_ClassicBluetooth.html)
+- [BT test scenario: BLE - Data exchange](./testing/bt_scenario_BLE.html)
+- [BT test scenario: Bluetooth Mesh - for nodes and messaging](./testing/bt_scenario_mesh.html)
+- [BT test scenario: Bluetooth 4.x](./testing/bt_scenario_Bluetooth4.html)
+- [BT test scenario: Bluetooth audio](./testing/bt_scenario_audio.html)
+- [Bluetooth testing tools](./testing/btt.html)
+- [Bluetooth testing tools Sniffer](./testing/btt_sniffers.html)
+- [Bluetooth testing tools Picolo](./testing/btt_picolo.html)
+- [Bluetooth bugs](./testing/bt_protocolerrors.html)
+- [Bluetooth logs](./testing/bt_logs.html)
+  
 ***
 
 In the works:
@@ -245,4 +207,4 @@ In the works:
 
 ---
 
-> * [interview](./interview/01.html)
+
