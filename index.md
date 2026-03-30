@@ -64,7 +64,7 @@ description: QA testing and technical writing
 
 In the works:
 ### Testing AI
-* testing a generator - I will leave that for the end.
+* [The Logometrics - Why Most Systems Die at The Mean](https://mike524901.substack.com/p/the-logometrics).
 
 ***
 
