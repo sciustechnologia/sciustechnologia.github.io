@@ -31,20 +31,6 @@ description: QA testing and technical writing
   - [hardware](./power/hardware.html)
 - [Power testing](./power/pwr.html)
 
----
-
-## Testing Audio
-- [Audio testing](./audio/audio.html)
-
-### [Chip-level audio testing](./audio/chip-level_audio_testing.html)
-- [I2S_SPI_I2C](./audio/buses_I2S_SPI_I2C.html)
-- [SoX & install](./audio/audio_sox.html)
-- [SoX & Cmds](./audio/audio_SoX_cmds.html)
-- [TCL](./audio/audio_tcl.html)
-- [venv](./audio/venv.html)
-
->  might be worth to create my own testing lab for this; I am still non-conclusive on this.
-
 ***
 
 ### Bluetooth [testing](./testing/bt.html)
@@ -59,6 +45,20 @@ description: QA testing and technical writing
 - [Bluetooth testing tools Picolo](./testing/btt_picolo.html)
 - [Bluetooth bugs](./testing/bt_protocolerrors.html)
 - [Bluetooth logs](./testing/bt_logs.html)
+
+***
+
+## Testing Audio
+- [Audio testing](./audio/audio.html)
+
+### [Chip-level audio testing](./audio/chip-level_audio_testing.html)
+- [I2S_SPI_I2C](./audio/buses_I2S_SPI_I2C.html)
+- [SoX & install](./audio/audio_sox.html)
+- [SoX & Cmds](./audio/audio_SoX_cmds.html)
+- [TCL](./audio/audio_tcl.html)
+- [venv](./audio/venv.html)
+
+>  might be worth to create my own testing lab for this; I am still non-conclusive on this.
   
 ***
 
