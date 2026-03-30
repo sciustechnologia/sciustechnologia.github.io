@@ -25,8 +25,8 @@ description: QA testing and technical writing
 
 ---
 
-## Testing Power
-> once my home lab is ready, I will give this a try as well.
+### Testing Power
+> once my home lab is ready, I will share more details.
   - [Battery chemistry](./power/batterychemistry.html)
   - [hardware](./power/hardware.html)
 - [Power testing](./power/pwr.html)
