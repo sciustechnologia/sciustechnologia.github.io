@@ -42,7 +42,7 @@ description: QA testing and technical writing
 - [BT test scenario: Bluetooth audio](./testing/bt_scenario_audio.html)
 - [Bluetooth testing tools](./testing/btt.html)
 - [Bluetooth testing tools Sniffer](./testing/btt_sniffers.html)
-- [Bluetooth testing tools Picolo](./testing/btt_picolo.html)
+- [Bluetooth testing tools Picolo](./testing/btt_pico.html)
 - [Bluetooth bugs](./testing/bt_protocolerrors.html)
 - [Bluetooth logs](./testing/bt_logs.html)
 
